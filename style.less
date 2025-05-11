@@ -1,0 +1,105 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0;
+    background-color: #0077be; /* Blue background color */
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+
+    figure {
+        text-align: center;
+        margin-left: -10px;
+        margin-top: -10px;
+        margin-right: 2rem;
+        padding: 0;
+        img {
+            width: 220px;
+            height: 220px;
+            border-radius: 5px; /* Square QR code with rounded corners */
+            border: 15px solid white;
+        }
+        figcaption a {
+            margin-left: 1rem;
+            font-size: 1rem;
+            font-weight: bold;
+            color: white;
+        }
+    }
+    
+    #header-text {
+        margin: 2rem;
+        align-self: flex-end;
+    }
+
+    h1 {
+        color: white;
+        font-size: 4rem;
+        font-weight: bold;
+        margin: 0;
+        padding: 0;
+    }
+    
+    table {
+        margin-top: 0.5rem;
+        width: 100%;
+        th, td {
+            border: none;
+        }
+        
+        td {
+            text-align: center;
+            padding: 0 0.5rem;
+        }
+        
+        a {
+            color: white;
+            text-decoration: none;
+            
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+
+.markdown-preview.markdown-preview {
+    /* Convert emojis to monochrome style */
+    
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Cal Sans', sans-serif;
+        // filter: sepia(1) hue-rotate(180deg);
+    }
+    
+
+    
+    table td, table th {
+        border: none;
+        // filter: sepia(1) hue-rotate(180deg);
+    }
+
+    li {
+        list-style-type: none;
+        &::before {
+            content: ">";
+            display: inline-block;
+            font-weight: bold;
+            margin-right: 0.5rem;
+            color: #0077be;
+        }
+    }
+
+    table th {
+        border-bottom: 3px solid #0077be;
+    }
+    table tr:nth-child(even) {
+        background-color: #f5f5f5;
+    }
+
+}
