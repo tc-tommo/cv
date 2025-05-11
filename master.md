@@ -116,13 +116,14 @@ css: ["style.less"]
 - Planning and organising social activities and fundraising initiatives, collaborating with other sports clubs.
 - Working as a team with committee, coaches, and club members.
 
-### 📰 Turing Fest Media and Conference assistant
+### 📰 Turing Fest Media Assistant
 - Photographed and filmed the event for social media and website.
 - Helped with the setup and running of the event reception.
 - Assisted speakers and attendees with any issues.
 
 ### UK Shuffle Community 
-- A performing arts community for the Shuffle dance.
-- We attended a
-
+- A performing arts community for the Shuffle/Cutting shapes dance scene.
+- I do amateur production and videography to create social media content for dancers and to promote classes.
+- I participate in workshops and teaching for kids and adults.
+- Participate in performances, flash mobs, and promotions for music festivals.
 
