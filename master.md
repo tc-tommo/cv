@@ -1,109 +1,93 @@
 ---
-title: CV
-author: Tommo Chung
+title: "CV"
+author: "Tommo Chung"
+css: ["../style.less"]
 ---
 
-<link rel="stylesheet" href="style.less">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
 
-@import "style.less"
+@import "../style.less"
 
 <div id="header">
 <figure>
-  <img src="./assets/qr_blue.png" alt="Thomas Chung"/>
+  <img src="../assets/qr_blue.png" alt="Thomas Chung"/>
   <figcaption><a href="https://tommo.page">tommo.page</a></figcaption>
 </figure>
 <div id="header-text">
 <h1>Tommo Chung</h1>
 
-<!-- change to custom icons -->
 | 📍  | 📞 | 📧 | 💬 |
 |---|---|---|---|
-|Edinburgh| [07483 215270](tel:+447483215270) | [tommo@chung.scot](mailto:tommo@chung.scot)| [m.me/tc.tomo](https://m.me/tc.tomo) |
+|Edinburgh| [07483 215270](tel:+447483215270) | [tommo@chung.scot](mailto:tommo@chung.scot)| [m.me/tc.tommo](https://m.me/tc.tommo) |
 </div>
 </div>
 
 ---
 
-# Personal Statement
+## About me
 
-Friendly, adaptable and hardworking individual with extensive experience in hospitality roles, including one of Edinburgh's busiest Costa stores. Skilled in delivering excellent customer service, working efficiently under pressure, and maintaining a positive atmosphere. Proven ability to handle cash, resolve customer queries, and work as part of a team. Suitable for summer temporary hire to support through a busy festival season.
+I am a creative Informatics student at Edinburgh University with experience in interactive web apps, digital content, and multimedia projects. I specialise in visual design, UI development, and social media management—particularly for the Shuffle/Cutting shapes dance scene. As manager of the [Scottish shuffle dance](https://www.instagram.com/scottishshufflesquad) Instagram page, I grew the account to 600 followers in 2 years, producing high-engagement dance videos and event content. I bring skills in video production, graphic/web design, and social media strategy and am passionate about supporting Edinburgh’s creative reputation.
 
+# 📐 Relevant Experience
 
-# Skills
+## Digital Content & Social Media
 
-- Excellent customer service and communication
-- Cash handling and till operation
-- Teamwork and collaboration
-- Multitasking and working under pressure
-- Event organisation
+### UK Shuffle Dance/Cutting Shapes Community — Page Manager & Creator
+- Managed and grew the Scottish Instagram page to 600+ followers.
+- Created, edited, and published engaging dance videos, event highlights, and promotional content for social media.
+- Produced content for other UK dance pages and personal channels, tailoring style and messaging to different audiences.
+- Collaborated with dancers and event organisers to capture and promote classes, performances, and workshops.
 
+### Edinburgh University Gymnastics Club — Social & Fundraising Coordinator
+- Promoted club events and activities through social media posts.
+- Designed graphics, posters, and digital materials for events and fundraising initiatives.
+- Organised and documented club activities, designed a web page to better inform members at training sessions.
+- Worked closely with committee and club members to ensure consistent and engaging communication.
+- Promoted club memberships directly at on-campus events.
+
+### Turing Fest — Media Assistant
+- Photographed and filmed event sessions for use on social media and the event website.
+- Assisted with setup and attendee interaction at the event.
+
+## University Digital Multimedia Projects
+
+- **[Binary Abacus](https://tommo.page/abacus):** Designed and built an interactive web tool with a focus on clear visual communication and user engagement.
+- **[Workout Mate](https://workout.tommo.page):** Developed a web app for a university sports club, including content creation and user interface design.
+- **[Training Clock](https://clock.tommo.page):** Created a digital event display for club activities, integrating with social calendars and providing real-time updates.
+
+## Amateur Video & Graphic Production
+
+- Produced, edited, and published dance and event videos for social media, using CapCut.
+- Designed graphics and promotional materials for events, classes and merchandise.
+- Experience with photography, videography, and basic motion graphics.
+
+---
+
+# 🎓 Education
+
+## Edinburgh University — Master of Informatics (2019-2025)
+- Focus on digital media, user experience, the combination of art with technology, and creative coding.
 
 ---
 
 # 💼 Employment
 
-## ☕ Costa Coffee - Barista (2022 - 2023)
-- Maintained high-quality service in a fast-paced environment, preparing a wide range of drinks from a seasonally changing menu.
-- Handled cash and card transactions accurately, balancing tills at the end of shifts.
-- Maintained cleanliness and organization of the bar and seating area.
-- Worked as part of a team to ensure smooth service in Edinburgh's second busiest Costa in Q3 2022.
-- Built rapport with regular customers and resolved complaints professionally.
+## 💪 Edinburgh University Gymnastics — Strength & Conditioning Coach (May 2023 - Present)
+- Created and delivered multimedia content to support and promote training sessions.
 
-## 🍦 Artisan Gelato (2022)
-- Served customers with a friendly and welcoming attitude, providing product recommendations and samples.
-- Managed queues and worked efficiently during peak hours.
-- Maintained hygiene standards and restocked displays.
+## 📝 Inkwell PR — Full Stack Developer (Dec 2023 - Aug 2024)
+- Contributed to product development of an AI press release writing tool.
 
-## 🍴 Wetherspoons (2018-2019)
-- Worked behind the bar and on the floor, serving drinks and food to customers.
-- Responsible for cash handling, taking orders, and ensuring customer satisfaction.
-- Maintained a clean and safe environment, adhering to licensing laws and company policies.
-- Developed strong teamwork and multitasking skills in a busy pub setting.
-
-## 💪 Edinburgh University Gymnastics - Strength and conditioning coach (May 2023 - Present)
-- Organising and running a training programme, demonstrating leadership and communication skills.
-- Worked with a team of coaches to deliver a programme of strength and conditioning sessions to the university gymnastics squad.
-
-## 🍪 Nairn's Oatcakes (2021)
-- Assisted with production and packaging operations in a food manufacturing environment.
-
-## 🏭 Grant Westfield (2021)
-- Beam saw operator responsible for refurbishment of damaged products.
-
-## 📝 Inkwell PR - Software developer (Dec 2023 - Aug 2024)
-- Worked as part of a team, delivering projects to tight deadlines and communicating with clients.
-
-## ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
-- Collaborated with colleagues to solve problems and deliver results under pressure.
+|📊 PlayerData (2023) |☕ Costa Coffee (2022 - 2023) |🍦 Artisan Gelato (2022) |🍪 Nairn's Oatcakes (2021) |🏭 Grant Westfield (2021) | 🍴 Wetherspoons (2018-2019) |
+|-|-|-|-|-|-|
 
 ---
 
-# 🤝 Volunteering & Non-technical Involvement
+# 🤝 Volunteering & Community Involvement
 
-### 🤸‍♂️ Edinburgh University Gymnastics Club
-
-**Social and fundraising coordinator**
-- Promoted events on social media and in person, increasing attendance and engagement.
-- Planned and organised social activities and fundraising initiatives, collaborating with other sports clubs.
-- Worked as a team with committee, coaches, and club members.
-
-### 📰 Turing Fest Media Assistant
-- Assisted with event setup, reception, and attendee support, demonstrating strong communication and problem-solving skills.
-
-### UK Shuffle Community 
-- Organised and participated in performances, workshops, and events, working with diverse groups of people.
-
----
-
-# Education
-
-## Edinburgh University - Informatics (MInf) (2019-2025)
-- Developed strong analytical, teamwork, and communication skills through group projects and presentations.
-
-## Arbroath High School (2013-2019) 
-- Proxime Accessit 2018.
+- Social media manager and content creator for dance and sports communities.
+- Produced and promoted digital content for events, classes, and online engagement.
 
 ---
