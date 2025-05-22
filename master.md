@@ -1,6 +1,8 @@
 ---
 title: CV
 author: Tommo Chung
+export_on_save:
+  prince: true
 ---
 
 <link rel="stylesheet" href="style.less">
@@ -64,7 +66,7 @@ Friendly, adaptable and hardworking individual with extensive experience in hosp
 - Developed strong teamwork and multitasking skills in a busy pub setting.
 
 ## 💪 Edinburgh University Gymnastics - Strength and conditioning coach (May 2023 - Present)
-- Organising and running a training programme, demonstrating leadership and communication skills.
+- Organising and running a training programme, leadership and communication skills.
 - Worked with a team of coaches to deliver a programme of strength and conditioning sessions to the university gymnastics squad.
 
 ## 🍪 Nairn's Oatcakes (2021)
