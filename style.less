@@ -15,8 +15,10 @@
         margin-right: 2rem;
         padding: 0;
         img {
-            width: 220px;
-            height: 220px;
+            max-width: 2in;
+            min-width: 100px;
+            width: 100%;
+            aspect-ratio: 1/1;
             border-radius: 5px; /* Square QR code with rounded corners */
             border: 15px solid white;
         }
@@ -35,7 +37,7 @@
 
     h1 {
         color: white;
-        font-size: 4rem;
+        font-size: 3.8rem;
         font-weight: bold;
         margin: 0;
         padding: 0;
@@ -66,6 +68,19 @@
 
 
 .markdown-preview.markdown-preview {
+    &.prince {
+        @page {
+            size: A4;
+            margin: 1.27cm;
+        }
+
+        h1 { font-size: 2em; }
+        h2 { font-size: 1.3em; }
+        h3 { font-size: 1.2em; }
+        h4 { font-size: 1em; }
+        h5 { font-size: 0.9em; }
+        h6 { font-size: 0.75em; }
+    }
     /* Convert emojis to monochrome style */
     
     font-family: 'Lato', sans-serif;
