@@ -2,6 +2,7 @@
 title: "CV"
 author: "Tommo Chung"
 css: ["style.less"]
+url: http://www.crasoftware.com/
 ---
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -12,7 +13,7 @@ css: ["style.less"]
 
 <div id="header">
 <figure>
-  <img src="./assets/qr_blue.png" alt="Thomas Chung"/>
+  <img src="assets/qr_blue.png" alt="Thomas Chung"/>
   <figcaption><a href="https://tommo.page">tommo.page</a></figcaption>
 </figure>
 <div id="header-text">
@@ -32,33 +33,48 @@ css: ["style.less"]
 
 ## 🎓 University
 
+  * **Tenuto; Robot piano tutor** 
+      * Developed hardware and control software for a robotic piano tutor concept, interfacing with Bluetooth LE MIDI and utilising wireless chips, microcontrollers, and high-power transistors to drive a solenoid array, with variable key velocity using PWM signalling.
+      * Implemented real-time control systems and hardware interfaces using C/C++ for embedded microcontrollers.
+      * Designed and tested PCB layouts and circuit designs for reliable hardware operation.
+      * Key player in a large team; product demo rated best among 23 teams by technology and business experts.
+
+  * **Wireless measurement device for understanding impact forces on gymnasts** 
+      * Created a wearable harness with inertial measurement hardware, collected data over Bluetooth using Python API.
+      * Developed embedded firmware for real-time sensor data acquisition and processing.
+      * Implemented power management and low-power modes for extended battery life.
+      * Used lab equipment (oscilloscopes, multimeters) for hardware debugging and validation.
+
+  * **Scottish Baccalaureate in STEM - wireless communication using visible light** 
+      * Highest Baccalaureate grade for the Angus district (2019).
+      * Developed embedded systems for visible light communication using microcontrollers.
+      * Implemented signal processing algorithms for reliable data transmission.
+      * Created a complete hardware prototype with custom PCB design and assembly.
+
   * **Masters project - graphically editable music transformations**
       * Demonstrated using nonstationary gabor transforms to make music editable in an image editor.
       * Working with Python ML and and acceleration libraries.
-  * **High performance metaheuristic algorithms using TensorFlow** 
-      * Used TensorFlow to implement a high-performance particle swarm optimiser and puzzle solving genetic algorithm.
+
+  * **Hardware accelerated metaheuristic algorithms using TensorFlow** 
+      * Used TensorFlow to implement a parallel particle swarm optimiser and puzzle solving genetic algorithm.
+
   * **[Edinburgh cycle share scheme](https://redd.it/mrbvvt) - data analysis and presentation** 
-      * Analysed data from Edinburgh's cycle rental scheme during COVID-19 using Python data science packages* **[Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for kids** 
+      * Analysed data from Edinburgh's cycle rental scheme during COVID-19 using Python data science packages     
+
+  * **[Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for kids** 
       * Built a modern, interactive web application using React to help users learn about binary numbers, encoding systems, and bitwise operations.
       * Implemented features including multiple rows for simultaneous values, configurable bit columns, and various encoding options (unsigned/signed binary, IEEE 754, ASCII).
-      * Created an intuitive UI with visual beads that change color based on position, keyboard shortcuts, and sound feedback.
+      * Created an intuitive UI with visual beads.
       * Designed with responsive layout and multiple interaction modes (keyboard/mouse) for accessibility.
+
   * **[Workout Mate](https://workout.tommo.page) - Gymnastics strength and conditioning app** 
       * As part of a redesign project for the Hevy workout app, I developed a web app which now is used by the Edinburgh University Gymnastics club's strength and conditioning programme.
-      * Used React, Astro and Github Actions to create a web app to help the club members perform \\ workouts.
+      * Used React, Astro and Github Actions to create a web app to help the club members perform  workouts.
 
-  * **Tenuto; Robot piano tutor** 
-      * Developed hardware and control software for a robotic piano tutor concept, interfacing with Bluetooth LE MIDI and utilising wireless chips, microcontrollers, and high-power transistors to drive a solenoid array, with variable key velocity using PWM signalling.
-      * Key player in a large team; product demo rated best among 23 teams by technology and business experts.
-      * I was a key contributor of product design and development.
-    
 ## 🎮 Hobby projects
 
   * **SendEvent app - NLP assisted events and invitations** 
       * Uses a natural language processing framework to turn plain English descriptions of events into shareable formats.
-  * **Wireless measurement device for understanding impact forces on gymnasts** 
-      * Created a wearable harness with inertial measurement hardware, collected data over Bluetooth using Python API.
-      * Analysis and visualisation to gain insights into physical preparation.
   * **[Training clock](https://clock.tommo.page) for Edinburgh university gymnastics club** 
       * Built using React and deployed using Firebase.
       * Used for my former role as social and fundraising coordinator for the club.
@@ -68,7 +84,7 @@ css: ["style.less"]
 
   * **Scottish Baccalaureate in STEM - wireless communication using visible light** 
       * Highest Baccalaureate grade for the Angus district (2019).
-      * Learned embedded programming, electronics, signal processing and telecommunications; developed a relay chat proof of concept in an independent research project.
+      * Used oscilloscopes and multimeter hardware to debug analogue outputs.
 
 ---
 
@@ -77,30 +93,31 @@ css: ["style.less"]
 ## Edinburgh University - Informatics (MInf) (2019-2025)
 - 80% average marks in quality & readability of code and documentation.
 
-
+<!-- 
 | 👨‍💻 **Programming** | ☁️ **Systems** | 🧮 **Maths** | 🔣 **Theory** | 🎨 **Other** |
 |---|---|---|---|---|
 | Functional Programming in Haskell | Object-oriented Software Development | Discrete Maths & Probability | Programming Language Design | Mandarin Chinese |
 | Algorithms & Data Structures | Operating Systems | Linear Algebra | Formal Logic | Creative Coding for Music |
 | Internet-scale computing | Computer Security | Calculus | Cognitive Science | Robotics & Computer Vision |
-| Microprocessor Architecture | Metaheuristic & Genetic Algorithms | Data Science & Statistics | m | Computing Education |
+| Microprocessor Architecture | Metaheuristic & Genetic Algorithms | Data Science & Statistics |  | Computing Education |
+| Embedded Systems Programming | Real-time Systems | Signal Processing | | | -->
 
 ## Arbroath High School (2013-2019) 
 - Proxime Accessit 2018.
 
 # 💼 Employment
 
-## 📝 Inkwell PR - Full stack developer (Dec 2023 - Aug 2024)
-- Helping deliver an MVP for an AI writing assistant startup.
-- Implementing payment and subscription services into a webapp.
-
 ## ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
-- Developing performant driver code for low power sports wearables.
-- Writing hardware emulators for testing and validation of driver code.
+- Developed performant driver code for low power sports wearables using C/C++.
+- Implemented real-time sensor data processing and power management algorithms.
+- Created hardware emulators for testing and validation of driver code.
+- Collaborated with hardware engineers on PCB bring-up and debugging.
+- Used version control (Git) for firmware development and documentation.
+
+## 📝 Inkwell PR - Full stack developer (Dec 2023 - Aug 2024)
+- Helping deliver the minimum viable product for an AI writing assistant startup.
 
 ## 💪 Edinburgh University Gymnastics - Strength and conditioning coach
-(May 2023 - Present)
-- Organising and running a training programme.
 
 ## Other
 |☕ **Costa Coffee - Barista (2022 - 2023)** |🍦 **Artisan Gelato (2022)** |🍪 **Nairn's Oatcakes (2021)** |🏭 **Grant Westfield (2021)** | 🍴 **Wetherspoons (2018-2019)** |
@@ -120,10 +137,4 @@ css: ["style.less"]
 - Photographed and filmed the event for social media and website.
 - Helped with the setup and running of the event reception.
 - Assisted speakers and attendees with any issues.
-
-### UK Shuffle Community 
-- A performing arts community for the Shuffle/Cutting shapes dance scene.
-- I do amateur production and videography to create social media content for dancers and to promote classes.
-- I participate in workshops and teaching for kids and adults.
-- Participate in performances, flash mobs, and promotions for music festivals.
 
