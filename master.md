@@ -55,7 +55,8 @@ I'm a recent Informatics graduate with a strong foundation in AI, machine learni
   * **Inkwell PR - GPT based press release generator**
       * Contributed to the development of a GPT based press release generator, refining the core service and integrating payment/subscription.
   * **SendEvent app - NLP assisted events and invitations**
-      * Finetuned small language models to turn plain English event descriptions into structured, shareable formats.
+      * Used NLP tools to turn plain English phrases into structured, shareable iCal files.
+      * Experimented with finetuning LLaMa, Qwen and Gemini models to perform advanced phrase NLU: "every second friday of june"
 
 ## Web & Software Projects
 
