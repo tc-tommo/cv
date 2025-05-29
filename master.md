@@ -49,8 +49,7 @@ Friendly, adaptable and hardworking individual with extensive experience in hosp
 
 ## ☕ Costa Coffee - Barista (2022 - 2023)
 - Maintained high-quality service in a fast-paced environment, preparing a wide range of drinks from a seasonally changing menu.
-- Handled cash and card transactions accurately, balancing tills at the end of shifts.
-- Maintained cleanliness and organization of the bar and seating area.
+- Maintained cleanliness and organisation of the bar and seating area.
 - Worked as part of a team to ensure smooth service in Edinburgh's second busiest Costa in Q3 2022.
 - Built rapport with regular customers and resolved complaints professionally.
 
