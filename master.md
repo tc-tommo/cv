@@ -104,8 +104,3 @@ Friendly, adaptable and hardworking individual with extensive experience in hosp
 
 ## Edinburgh University - Informatics (MInf) (2019-2025)
 - Developed strong analytical, teamwork, and communication skills through group projects and presentations.
-
-## Arbroath High School (2013-2019) 
-- Proxime Accessit 2018.
-
----
