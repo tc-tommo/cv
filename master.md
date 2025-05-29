@@ -80,10 +80,10 @@ url: http://www.crasoftware.com/
 
 ## 🎮 Hobby projects
 
-### **SendEvent app - NLP assisted events and invitations** 
+### SendEvent app - NLP assisted events and invitations 
 * Uses a natural language processing framework to turn plain English descriptions of events into shareable formats.
 
-### **[Training clock](https://clock.tommo.page) for Edinburgh university gymnastics club** 
+### [Training clock](https://clock.tommo.page) for Edinburgh university gymnastics club 
 * Built using React and deployed using Firebase.
       * Used for my former role as social and fundraising coordinator for the club.
       * Synchronised to a central calendar and displays upcoming social/competitive events.
