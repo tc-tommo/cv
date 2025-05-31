@@ -1,71 +1,19 @@
-#header {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    padding: 0;
-    background-color: #0077be; /* Blue background color */
-    color: white;
-    border-radius: 5px;
-    margin-bottom: 1rem;
-
-    figure {
-        text-align: center;
-        margin-left: -10px;
-        margin-top: -10px;
-        margin-right: 2rem;
-        padding: 0;
-        img {
-            max-width: 2in;
-            min-width: 100px;
-            width: 100%;
-            aspect-ratio: 1/1;
-            border-radius: 5px; /* Square QR code with rounded corners */
-            border: 15px solid white;
-        }
-        figcaption a {
-            margin-left: 1rem;
-            font-size: 1rem;
-            font-weight: bold;
-            color: white;
-        }
-    }
-    
-    #header-text {
-        margin: 2rem;
-        align-self: flex-end;
-    }
-
-    h1 {
-        color: white;
-        font-size: 3.8rem;
-        font-weight: bold;
-        margin: 0;
-        padding: 0;
-    }
-    
-    table {
-        margin-top: 0.5rem;
-        width: 100%;
-        th, td {
-            border: none;
-        }
-        
-        td {
-            text-align: center;
-            padding: 0 0.5rem;
-        }
-        
-        a {
-            color: white;
-            text-decoration: none;
-            
-            &:hover {
-                text-decoration: underline;
-            }
-        }
-    }
+@font-face {
+    font-family: 'Nexa Bold';
+    font-style: bold;
+    font-display: swap;
+    src: local('Nexa Bold');
 }
 
+<<<<<<< HEAD
+=======
+@font-face {
+    font-family: 'Nexa Light';
+    font-style: light;
+    font-display: swap;
+    src: local('Nexa Light');
+}
+>>>>>>> 5c25fc5 (simplify styles)
 
 .markdown-preview.markdown-preview {
     &.prince {
@@ -74,21 +22,33 @@
             margin: 1.27cm;
         }
 
-        h1 { font-size: 2em; }
-        h2 { font-size: 1.3em; }
-        h3 { font-size: 1.2em; }
-        h4 { font-size: 1em; }
-        h5 { font-size: 0.9em; }
-        h6 { font-size: 0.75em; }
+
     }
     /* Convert emojis to monochrome style */
     
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    
 
+<<<<<<< HEAD
     h1, h2, h3, h4, h5, h6 {
         font-family: 'Cal Sans', sans-serif;
+=======
+
+    h1 { font-size: 2em; }
+    h2 { font-size: 1.5em; }
+    h3 { font-size: 1.2em; }
+    h4 { font-size: 1em; }
+    h5 { font-size: 0.9em; }
+    h6 { font-size: 0.75em; }
+
+
+    h3 , h4 , h5 , h6 {
+        font-family: 'Nexa Light', sans-serif;
+    }
+
+    h1, h2 {
+        font-family: 'Nexa', 'Cal Sans', sans-serif;
+>>>>>>> 5c25fc5 (simplify styles)
         // filter: sepia(1) hue-rotate(180deg);
     }
     
