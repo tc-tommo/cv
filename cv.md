@@ -11,21 +11,7 @@ author: Tommo Chung
 
 @import "style.less"
 
-<div id="header">
-<figure>
-  <img src="./assets/qr_blue.png" alt="Thomas Chung"/>
-  <figcaption><a href="https://tommo.page">tommo.page</a></figcaption>
-</figure>
-<div id="header-text">
-<h1>Tommo Chung</h1>
-
-<!-- change to custom icons -->
-| 📍  | 📞 | 📧 | 💬 |
-|---|---|---|---|
-|Edinburgh| [07483 215270](tel:+447483215270) | [tommo@chung.scot](mailto:tommo@chung.scot)| [m.me/tc.tomo](https://m.me/tc.tomo) |
-</div>
-</div>
-
+@import "assets/header.svg"
 ---
 
 
@@ -33,26 +19,26 @@ author: Tommo Chung
 
 ## 🎓 University
 
-  * **Masters project - graphically editable music transformations**
+* **Masters project - graphically editable music transformations**
       * Demonstrated using nonstationary gabor transforms to make music editable in an image editor.
       * Working with Python ML and and acceleration libraries.
-  * **High performance metaheuristic algorithms using TensorFlow** 
+* **High performance metaheuristic algorithms using TensorFlow** 
       * Used TensorFlow to implement a high-performance particle swarm optimiser and puzzle solving genetic algorithm.
-  * **[Edinburgh cycle share scheme](https://redd.it/mrbvvt) - data analysis and presentation** 
+* **[Edinburgh cycle share scheme](https://redd.it/mrbvvt) - data analysis and presentation** 
       * Analysed data from Edinburgh's cycle rental scheme during COVID-19 using Python data science packages* **[Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for kids** 
       * Built a modern, interactive web application using React to help users learn about binary numbers, encoding systems, and bitwise operations.
       * Implemented features including multiple rows for simultaneous values, configurable bit columns, and various encoding options (unsigned/signed binary, IEEE 754, ASCII).
       * Created an intuitive UI with visual beads that change color based on position, keyboard shortcuts, and sound feedback.
       * Designed with responsive layout and multiple interaction modes (keyboard/mouse) for accessibility.
-  * **[Workout Mate](https://workout.tommo.page) - Gymnastics strength and conditioning app** 
-      * As part of a redesign project for the Hevy workout app, I developed a web app which now is used by the Edinburgh University Gymnastics club's strength and conditioning programme.
-      * Used React, Astro and Github Actions to create a web app to help the club members perform \\ workouts.
+* **[Workout Mate](https://workout.tommo.page) - Gymnastics strength and conditioning app** 
+    * As part of a redesign project for the Hevy workout app, I developed a web app which now is used by the Edinburgh University Gymnastics club's strength and conditioning programme.
+    * Used React, Astro and Github Actions to create a web app to help the club members perform \\ workouts.
 
-  * **Tenuto; Robot piano tutor** 
-      * Developed hardware and control software for a robotic piano tutor concept, interfacing with Bluetooth LE MIDI and utilising wireless chips, microcontrollers, and high-power transistors to drive a solenoid array, with variable key velocity using PWM signalling.
-      * Key player in a large team; product demo rated best among 23 teams by technology and business experts.
-      * I was a key contributor of product design and development.
-    
+* **Tenuto; Robot piano tutor** 
+    * Developed hardware and control software for a robotic piano tutor concept, interfacing with Bluetooth LE MIDI and utilising wireless chips, microcontrollers, and high-power transistors to drive a solenoid array, with variable key velocity using PWM signalling.
+    * Key player in a large team; product demo rated best among 23 teams by technology and business experts.
+    * I was a key contributor of product design and development.
+
 ## 🎮 Hobby projects
 
   * **SendEvent app - NLP assisted events and invitations** 
