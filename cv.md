@@ -11,22 +11,8 @@ author: Tommo Chung
 @import "style.less"
 
 
-<div id="header">
-<figure>
-  <img src="./assets/qr_blue.png" alt="Thomas Chung"/>
-  <figcaption><a href="https://tommo.page">tommo.page</a></figcaption>
-</figure>
-<div id="header-text">
-<h1>Tommo Chung</h1>
-
-<!-- change to custom icons -->
-| 📍  | 📞 | 📧 | 💬 |
-|---|---|---|---|
-|Edinburgh| [07483 215270](tel:+447483215270) | [tommo@chung.scot](mailto:tommo@chung.scot)| [m.me/tc.tomo](https://m.me/tc.tomo) |
-</div>
-</div>
-
-
+@import "assets/header.svg"
+---
 
 # Profile
 I'm a recent Informatics graduate with a strong foundation in AI, machine learning, and software engineering. Experienced in Python, LLM fine-tuning, and building interpretable AI systems. I'm passionate about advancing trustworthy AI and eager to contribute to cutting-edge research in neuro-symbolic approaches. I work well in a team, am committed to learning quickly and upholding high standards of quality in both code and research documentation.
