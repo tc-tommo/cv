@@ -8,6 +8,7 @@ author: Tommo Chung
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
 
+
 @import "style.less"
 
 <div id="header">
@@ -77,13 +78,13 @@ author: Tommo Chung
 ## Edinburgh University - Informatics (MInf) (2019-2025)
 - 80% average marks in quality & readability of code and documentation.
 
-
+<!-- 
 | 👨‍💻 **Programming** | ☁️ **Systems** | 🧮 **Maths** | 🔣 **Theory** | 🎨 **Other** |
 |---|---|---|---|---|
 | Functional Programming in Haskell | Object-oriented Software Development | Discrete Maths & Probability | Programming Language Design | Mandarin Chinese |
 | Algorithms & Data Structures | Operating Systems | Linear Algebra | Formal Logic | Creative Coding for Music |
 | Internet-scale computing | Computer Security | Calculus | Cognitive Science | Robotics & Computer Vision |
-| Microprocessor Architecture | Metaheuristic & Genetic Algorithms | Data Science & Statistics | m | Computing Education |
+| Microprocessor Architecture | Metaheuristic & Genetic Algorithms | Data Science & Statistics | m | Computing Education | -->
 
 ## Arbroath High School (2013-2019) 
 - Proxime Accessit 2018.
