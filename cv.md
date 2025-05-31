@@ -29,14 +29,15 @@ author: Tommo Chung
 
 
 # Profile
-I'm a recent Informatics graduate with a strong foundation in AI, machine learning, and software engineering. Experienced in Python, data analysis, and building interactive web applications. I'm passionate about driving a public benefit from AI tools and eager to contribute to Storm ID's technical team. I work well in a team, am committed to learning quickly and upholding high standards of quality.
+I'm a recent Informatics graduate with a strong foundation in AI, machine learning, and software engineering. Experienced in Python, LLM fine-tuning, and building interpretable AI systems. I'm passionate about advancing trustworthy AI and eager to contribute to cutting-edge research in neuro-symbolic approaches. I work well in a team, am committed to learning quickly and upholding high standards of quality in both code and research documentation.
 
 # Technical Skills
 - **Programming:** Python, JavaScript (React), TypeScript, Haskell, C/C++
-- **AI/ML Tools:** TensorFlow, PyTorch, computational pipelines, small language models, NLP frameworks
-- **Data Science:** Pandas, NumPy, data analysis, data visualization
+- **AI/ML Tools:** TensorFlow, PyTorch, LLM fine-tuning (LLaMa, Qwen, Gemini), computational pipelines, NLP frameworks, model evaluation
+- **Data Science:** Pandas, NumPy, data analysis, data visualization, benchmark evaluation
 - **Version Control:** Git, GitHub Actions
 - **Cloud:** Familiarity with fundamentals of cloud computing; keen to pursue Azure certification
+- **Research:** Technical report writing, experimental design, model interpretability analysis
 - **Other:** UI/UX, hardware integration, public sector data
 
 ---
@@ -46,17 +47,19 @@ I'm a recent Informatics graduate with a strong foundation in AI, machine learni
 ## AI & Data Projects
 
   * **Masters project - graphically editable music transformations**
-      * Implemented advanced signal processing and ML compatible mathematical transforms (NSGT) to demonstrate a novel music editing workflow.
-      * Working with tensor computation in pytorch for signal processing.
+      * Implemented advanced signal processing and ML compatible mathematical transforms (NSGT) to demonstrate a novel music editing workflow with improved interpretability of the transformation process.
+      * Working with tensor computation in PyTorch for signal processing, focusing on making complex mathematical operations more transparent and controllable.
   * **High performance metaheuristic algorithms using TensorFlow**
-      * Used TensorFlow to implement metaheuristic algorithms (particle swarm optimiser, genetic algorithm) leveraging CUDA.
+      * Used TensorFlow to implement metaheuristic algorithms (particle swarm optimiser, genetic algorithm) leveraging CUDA, with structured internal representations for algorithm state tracking.
   * **[Edinburgh cycle share scheme](https://redd.it/mrbvvt) - data analysis and presentation**
       * Analysed and visualised public sector transport data using Python and data science packages, providing actionable insights during the COVID-19 pandemic.
+      * **Developed comprehensive evaluation metrics and benchmarks** for assessing data quality and model predictions.
   * **Inkwell PR - GPT based press release generator**
       * Contributed to the development of a GPT based press release generator, refining the core service and integrating payment/subscription.
+      * **Focused on improving model interpretability and reasoning consistency** through structured prompt engineering and output validation.
   * **SendEvent app - NLP assisted events and invitations**
       * Used NLP tools to turn plain English phrases into structured, shareable iCal files.
-      * Experimented with finetuning LLaMa, Qwen and Gemini models to perform advanced phrase NLU: "every second friday of june except 16th"
+      * **Experimented with fine-tuning LLaMa, Qwen and Gemini models** to perform advanced phrase NLU: "every second friday of june except 16th", evaluating model performance across multiple benchmarks and analyzing reasoning transparency.
 
 ## Web & Software Projects
 
@@ -89,10 +92,11 @@ I'm a recent Informatics graduate with a strong foundation in AI, machine learni
 # 🎓 Education
 
 ## Edinburgh University - Informatics (MInf) (2019-2025)
-- 80% average marks in quality & readability of code and documentation.
-- Python data science packages (Introduction to Data Science)
-- Deploying a REST service with Azure. (Applied Cloud Programming)
-- Machine learning on Google Colab. (Machine Learning Practical)
+- **80% average marks in quality & readability of code and documentation** - demonstrating strong technical writing and documentation skills essential for research reporting.
+- **Python data science packages** (Introduction to Data Science) - extensive experience with evaluation frameworks and benchmark analysis.
+- **Deploying a REST service with Azure** (Applied Cloud Programming) - practical experience with scalable model deployment.
+- **Machine learning on Google Colab** (Machine Learning Practical) - hands-on experience with model training, fine-tuning, and performance evaluation.
+- **Advanced coursework in AI reasoning and symbolic computation** - strong theoretical foundation in both neural and symbolic approaches to AI.
 
 ## Arbroath High School (2013-2019) 
 - Proxime Accessit 2018.
