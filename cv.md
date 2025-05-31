@@ -95,7 +95,7 @@ I'm a recent Informatics graduate with a strong foundation in AI, machine learni
 
 
 ## Other Experience
-|☕ **Costa Coffee (2022 - 2023)** |🍦 **Artisan Gelato (2022)** |🍪 **Nairn's Oatcakes (2021)** |🏭 **Grant Westfield (2021)** | 🍴 **Wetherspoons (2018-2019)** |
+|☕ **Costa (2022-2023)** |🍦 **Artisan Gelato (2022)** |🍪 **Nairn's Oatcakes (2021)** |🏭 **Grant Westfield (2021)** | 🍴 **Wetherspoons (2018-2019)** |
 |-|-|-|-|-|
 
 
