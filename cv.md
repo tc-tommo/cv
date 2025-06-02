@@ -14,29 +14,19 @@ author: Tommo Chung
 @import "assets/header.svg"
 ---
 
-# Profile
-I'm a recent Informatics graduate with a strong foundation in AI, machine learning, and software engineering. Experienced in Python and LLM fine-tuning. I'm passionate about advancing trustworthy AI and eager to contribute to cutting-edge research. I work well in a team, am committed to learning quickly and upholding high standards of quality in both code and documentation.
+## Personal Statement
+I'm a recent Informatics graduate (MInf, University of Edinburgh) with a strong foundation in AI, NLP, and software engineering. I'm experienced in developing and integrating machine learning models into user facing applications. I'm passionate about ethical AI and real-world impact, with a proven ability to collaborate in diverse teams.
 
-## Availability
-- Immediate start.
-- Flexible with working hours and location.
-- UK citizen, Edinburgh based.
+---
 
 ## Technical Skills
-
-- **AI/ML Tools:** TensorFlow, PyTorch, LLM fine-tuning (LLaMa, Qwen, Phi), computational pipelines, NLP frameworks, model evaluation
-- **Data Science:** Pandas, NumPy, data analysis, data visualization, benchmark evaluation
-- **Programming:** Python, JavaScript (React), TypeScript, Haskell, C/C++
+- **Front-End:** JavaScript, Node.js, React, UI/UX design
+- **AI/ML:** TensorFlow, PyTorch, LLM fine-tuning (LLaMa, Qwen, Phi), NLP frameworks, model evaluation
+- **Data Science:** Pandas, NumPy, data analysis, data visualisation, benchmark evaluation
+- **Programming:** Python, TypeScript, Haskell, C/C++
 - **Version Control:** Git, GitHub Actions
-- **Research:** Technical report writing, fine-tuning, LLM application development
-- **Other:** UI/UX, hardware integration, public sector data
-
-## Soft Skills
-- **Teamwork:** Participated in diverse teams of, from university, industry, startups and extracurricular.
-- **Communication:** Strong communication skills, able to communicate on technical and big picture levels.
-- **Ethical commitment:** Strong commitment to ethical principles and social responsibility.
-- **Problem-solving:** Experienced in autonomously developing and testing creative solutions.
-- **Adaptability:** Eager to pick up new skills and technologies.
+- **Cloud/Deployment:** Azure, Firebase
+- **Other:** public sector data analysis
 
 ---
 
@@ -62,7 +52,7 @@ I'm a recent Informatics graduate with a strong foundation in AI, machine learni
 - Used NLP tools to turn plain English phrases into structured, shareable iCal files.
 - Experimented with fine-tuning LLaMa, Qwen and Gemini models to perform advanced phrase interpretation: "every second friday of june except 16th".
 
-<!-- ## Web & Software Projects
+## Web & Software Projects
 
 ### **[Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for kids** 
 - Built a modern, interactive web application using React to help users learn about binary numbers, encoding systems, and bitwise operations.
@@ -70,7 +60,7 @@ I'm a recent Informatics graduate with a strong foundation in AI, machine learni
 
 ### **[Workout Mate](https://workout.tommo.page) - Gymnastics strength and conditioning app** 
 - Developed a web app for the Edinburgh University Gymnastics club's strength and conditioning programme, using React, Astro, and GitHub Actions.
-- Collaborated with club members to refine the app and deliver a user-focused solution. -->
+- Collaborated with club members to refine the app and deliver a user-focused solution.
 
 ## Hardware & Embedded Projects
 
@@ -94,7 +84,7 @@ I'm a recent Informatics graduate with a strong foundation in AI, machine learni
 
 # 🎓 Education
 
-## Edinburgh University - Informatics (MInf) (2019-2025)
+## University of Edinburgh – MInf Informatics (2019–2025)
 - 2:1 at Honours level, final classification pending.
 - **Autonomous research** - self-proposed masters project achieving a 76% mark at Honours level.
 - **Python data science packages** (Introduction to Data Science) - extensive experience with evaluation frameworks and benchmark analysis.
