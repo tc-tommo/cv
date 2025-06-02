@@ -32,37 +32,37 @@ Friendly, adaptable and hardworking individual with extensive experience in hosp
 
 # 💼 Employment
 
-## ☕ Costa Coffee - Barista (2022 - 2023)
+### ☕ Costa Coffee - Barista (2022 - 2023)
 - Maintained high-quality service in a fast-paced environment, preparing a wide range of drinks from a seasonally changing menu.
 - Maintained cleanliness and organisation of the bar and seating area.
 - Worked as part of a team to ensure smooth service in Edinburgh's second busiest Costa in Q3 2022.
 - Built rapport with regular customers and resolved complaints professionally.
 
-## 🍦 Artisan Gelato (2022)
+### 🍦 Artisan Gelato (2022)
 - Served customers with a friendly and welcoming attitude, providing product recommendations and samples.
 - Managed queues and worked efficiently during peak hours.
 - Maintained hygiene standards and restocked displays.
 
-## 🍴 Wetherspoons (2018-2019)
+### 🍴 Wetherspoons (2018-2019)
 - Worked behind the bar and on the floor, serving drinks and food to customers.
 - Responsible for cash handling, taking orders, and ensuring customer satisfaction.
 - Maintained a clean and safe environment, adhering to licensing laws and company policies.
 - Developed strong teamwork and multitasking skills in a busy pub setting.
 
-## 💪 Edinburgh University Gymnastics - Strength and conditioning coach (May 2023 - Present)
+### 💪 Edinburgh University Gymnastics - Strength and conditioning coach (May 2023 - Present)
 - Organising and running a training programme, leadership and communication skills.
 - Worked with a team of coaches to deliver a programme of strength and conditioning sessions to the university gymnastics squad.
 
-## 🍪 Nairn's Oatcakes (2021)
+### 🍪 Nairn's Oatcakes (2021)
 - Assisted with production and packaging operations in a food manufacturing environment.
 
-## 🏭 Grant Westfield (2021)
+### 🏭 Grant Westfield (2021)
 - Beam saw operator responsible for refurbishment of damaged products.
 
-## 📝 Inkwell PR - Software developer (Dec 2023 - Aug 2024)
+### 📝 Inkwell PR - Software developer (Dec 2023 - Aug 2024)
 - Worked as part of a team, delivering projects to tight deadlines and communicating with clients.
 
-## ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
+### ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
 - Collaborated with colleagues to solve problems and deliver results under pressure.
 
 ---
@@ -86,5 +86,5 @@ Friendly, adaptable and hardworking individual with extensive experience in hosp
 
 # Education
 
-## Edinburgh University - Informatics (MInf) (2019-2025)
+### Edinburgh University - Informatics (MInf) (2019-2025)
 - Developed strong analytical, teamwork, and communication skills through group projects and presentations.
