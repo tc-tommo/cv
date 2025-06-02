@@ -10,13 +10,12 @@ author: Tommo Chung
 
 
 @import "style.less"
-
 @import "assets/header.svg"
 ---
 
 # Personal Statement
 
-Friendly, adaptable and hardworking individual with extensive experience in hospitality roles, including one of Edinburgh's busiest Costa stores. Skilled in delivering excellent customer service, working efficiently under pressure, and maintaining a positive atmosphere. Proven ability to handle cash, resolve customer queries, and work as part of a team. Suitable for summer temporary and part time to support through a busy festival season.
+Friendly, adaptable and hardworking individual with extensive experience in hospitality roles, including one of Edinburgh's busiest Costa stores. Skilled in delivering excellent customer service, working efficiently under pressure, and maintaining a positive atmosphere. Proven ability to handle cash, resolve customer queries, and work as part of a team. Suitable for part time work to support through a busy festival season.
 
 
 # Skills
@@ -39,19 +38,18 @@ Friendly, adaptable and hardworking individual with extensive experience in hosp
 - Built rapport with regular customers and resolved complaints professionally.
 
 ### 🍦 Artisan Gelato (2022)
-- Served customers with a friendly and welcoming attitude, providing product recommendations and samples.
-- Managed queues and worked efficiently during peak hours.
-- Maintained hygiene standards and restocked displays.
+- Produced gelato at a busy city centre location.
+- Maintained high standards of hygiene and cleanliness.
+- Worked in concert with the serving staff to ensure displays were well stocked and presented.
+- A typical production rate would be 20-30 litres per hour
 
-### 🍴 Wetherspoons (2018-2019)
-- Worked behind the bar and on the floor, serving drinks and food to customers.
-- Responsible for cash handling, taking orders, and ensuring customer satisfaction.
-- Maintained a clean and safe environment, adhering to licensing laws and company policies.
-- Developed strong teamwork and multitasking skills in a busy pub setting.
+### 🍴 Wetherspoons (2018-2019) - Kitchen Porter
+- Maintained exemplary hygiene standards in the kitchen.
+- Worked as part of a team to ensure orders were prepared and served quickly and efficiently.
 
-### 💪 Edinburgh University Gymnastics - Strength and conditioning coach (May 2023 - Present)
+### 💪 Edinburgh University Gymnastics - Strength coach (May 2023 - Present)
 - Organising and running a training programme, leadership and communication skills.
-- Worked with a team of coaches to deliver a programme of strength and conditioning sessions to the university gymnastics squad.
+- Worked with a team of coaches to deliver a programme of strength and conditioning sessions to the university gymnastics .
 
 ### 🍪 Nairn's Oatcakes (2021)
 - Assisted with production and packaging operations in a food manufacturing environment.
@@ -59,22 +57,16 @@ Friendly, adaptable and hardworking individual with extensive experience in hosp
 ### 🏭 Grant Westfield (2021)
 - Beam saw operator responsible for refurbishment of damaged products.
 
-### 📝 Inkwell PR - Software developer (Dec 2023 - Aug 2024)
-- Worked as part of a team, delivering projects to tight deadlines and communicating with clients.
-
-### ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
-- Collaborated with colleagues to solve problems and deliver results under pressure.
-
 ---
 
-# 🤝 Volunteering & Non-technical Involvement
+# 🤝 Voluntary Work
 
 ### 🤸‍♂️ Edinburgh University Gymnastics Club
 
 **Social and fundraising coordinator**
 - Promoted events on social media and in person, increasing attendance and engagement.
 - Planned and organised social activities and fundraising initiatives, collaborating with other sports clubs.
-- Worked as a team with committee, coaches, and club members.
+- Worked to build community between committee, coaches, and club members.
 
 ### 📰 Turing Fest Media Assistant
 - Assisted with event setup, reception, and attendee support, demonstrating strong communication and problem-solving skills.
@@ -82,9 +74,9 @@ Friendly, adaptable and hardworking individual with extensive experience in hosp
 ### UK Shuffle Community 
 - Organised and participated in performances, workshops, and events, working with diverse groups of people.
 
----
+<!-- ---
 
 # Education
 
 ### Edinburgh University - Informatics (MInf) (2019-2025)
-- Developed strong analytical, teamwork, and communication skills through group projects and presentations.
+- Developed strong analytical, teamwork, and communication skills through group projects and presentations. -->
