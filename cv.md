@@ -15,16 +15,15 @@ author: Tommo Chung
 
 # Personal Statement
 
-Friendly, adaptable and hardworking individual with extensive experience in hospitality roles, including one of Edinburgh's busiest Costa stores. Skilled in delivering excellent customer service, working efficiently under pressure, and maintaining a positive atmosphere. Proven ability to handle cash, resolve customer queries, and work as part of a team. Suitable for part time work to support through a busy festival season.
+Friendly, adaptable and hardworking individual with extensive experience in hospitality roles, including one of Edinburgh's busiest Costa stores. Skilled in delivering excellent customer service, working efficiently under pressure, and maintaining a positive atmosphere. Proven ability to handle cash, resolve customer queries, and work as part of a team. Suitable for part time work and available for immediate start to support a busy festival season.
 
 
 # Skills
 
 - Excellent customer service and communication
 - Cash handling and till operation
-- Teamwork and collaboration
-- Multitasking and working under pressure
-- Event organisation
+- Efficient service and industrial production experience
+- Teamwork and organisation
 
 
 ---
@@ -71,8 +70,8 @@ Friendly, adaptable and hardworking individual with extensive experience in hosp
 ### 📰 Turing Fest Media Assistant
 - Assisted with event setup, reception, and attendee support, demonstrating strong communication and problem-solving skills.
 
-### UK Shuffle Community 
-- Organised and participated in performances, workshops, and events, working with diverse groups of people.
+<!-- ### UK Shuffle Community 
+- Organised and participated in performances, workshops, and events, working with diverse groups of people. -->
 
 <!-- ---
 
