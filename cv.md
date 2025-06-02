@@ -32,6 +32,16 @@ I'm a recent Informatics graduate (MInf, University of Edinburgh) with a strong 
 
 # 📐 Experience & Projects
 
+## Web & Software Projects
+
+### **[Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for kids** 
+- Built a modern, interactive web application using React to help users learn about binary numbers, encoding systems, and bitwise operations.
+- Implemented features including various encoding options (unsigned/signed binary, IEEE 754, ASCII).
+
+### **[Workout Mate](https://workout.tommo.page) - Gymnastics strength and conditioning app** 
+- Developed a web app for the Edinburgh University Gymnastics club's strength and conditioning programme, using React, Astro, and GitHub Actions.
+- Collaborated with club members to refine the app and deliver a user-focused solution.
+
 ## AI & Data Projects
 
 ### **Masters project - graphically editable music transformations**
@@ -52,15 +62,6 @@ I'm a recent Informatics graduate (MInf, University of Edinburgh) with a strong 
 - Used NLP tools to turn plain English phrases into structured, shareable iCal files.
 - Experimented with fine-tuning LLaMa, Qwen and Gemini models to perform advanced phrase interpretation: "every second friday of june except 16th".
 
-## Web & Software Projects
-
-### **[Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for kids** 
-- Built a modern, interactive web application using React to help users learn about binary numbers, encoding systems, and bitwise operations.
-- Implemented features including various encoding options (unsigned/signed binary, IEEE 754, ASCII).
-
-### **[Workout Mate](https://workout.tommo.page) - Gymnastics strength and conditioning app** 
-- Developed a web app for the Edinburgh University Gymnastics club's strength and conditioning programme, using React, Astro, and GitHub Actions.
-- Collaborated with club members to refine the app and deliver a user-focused solution.
 
 ## Hardware & Embedded Projects
 
@@ -90,8 +91,6 @@ I'm a recent Informatics graduate (MInf, University of Edinburgh) with a strong 
 - **Python data science packages** (Introduction to Data Science) - extensive experience with evaluation frameworks and benchmark analysis.
 - **Deploying a REST service with Azure** (Applied Cloud Programming) - practical experience with scalable model deployment.
 - **Machine learning on Google Colab** (Machine Learning Practical) - hands-on experience with model training, fine-tuning, and performance evaluation.
-- **Advanced coursework in AI reasoning and symbolic computation** - strong theoretical foundation in both neural and symbolic approaches to AI.
-
 ## Arbroath High School (2013-2019) 
 - Proxime Accessit 2018.
 
