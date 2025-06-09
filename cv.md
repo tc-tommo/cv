@@ -3,6 +3,21 @@ title: CV
 author: Tommo Chung
 ---
 
+<div class="header" style="display: none;">
+<h1>Thomas Chung</h1><h2>Full Stack Developer</h2>
+<p>
+07483215270
+tommo@chung.scot    
+</p>
+<p>
+Software engineer - 6 years experience
+Master of Informatics - Edinburgh University
+Master of Computer Science - Edinburgh University
+Leadership and Management - 3 years experience
+</p>
+</div>
+
+
 <link rel="stylesheet" href="style.less">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -10,8 +25,8 @@ author: Tommo Chung
 
 
 @import "style.less"
-
 @import "assets/header.svg"
+
 ---
 
 
@@ -97,7 +112,7 @@ author: Tommo Chung
 - Organising and running a training programme.
 
 ## Other
-|☕ **Costa Coffee - Barista (2022 - 2023)** |🍦 **Artisan Gelato (2022)** |🍪 **Nairn's Oatcakes (2021)** |🏭 **Grant Westfield (2021)** | 🍴 **Wetherspoons (2018-2019)** |
+|☕ **Costa (2022 - 2023)** |🍦 **Artisan Gelato (2022)** |🍪 **Nairn's Oatcakes (2021)** |🏭 **Grant Westfield (2021)** | 🍴 **Wetherspoons (2018-2019)** |
 |-|-|-|-|-|
 
 
