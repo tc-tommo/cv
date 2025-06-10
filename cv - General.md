@@ -3,55 +3,69 @@ title: CV
 author: Tommo Chung
 ---
 
-<div class="header" style="display: none;">
-<h1>Thomas Chung</h1><h2>Full Stack Developer</h2>
+<div class="header" style="position: absolute; z-index: -1;">
+<h1>Thomas Chung</h1>
+<h2>2:1 (Hons)</h2><h2>Merit (Masters)</h2>
 <p>
 07483215270
 tommo@chung.scot    
 </p>
 <p>
 Software engineer - 6 years experience
-Master of Informatics - Edinburgh University
-Master of Computer Science - Edinburgh University
+Master of Informatics - Edinburgh University (2019-2025)
+Master of Computer Science - Edinburgh University (2019-2025)
 Leadership and Management - 3 years experience
+Python - 6 years experience
+JavaScript - 6 years experience
+React - 3 years experience
+Node.js - 3 years experience
+C - 7 years experience
+HTML - 6 years experience
+CSS - 6 years experience
 </p>
 </div>
 
-
+<style>
 <link rel="stylesheet" href="style.less">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-
+</style>
 
 @import "style.less"
 @import "assets/header.svg"
 
 ---
 
+# Personal Statement
+
+I am a computer science graduate with a passion for building things, I always try to reimagine how we interact with data and our devices.
+My strongest talent is to produce creative, high quality ideas and designs. I struggle to feel this shining about my own abilities but I have been told I have been good at it. I also try to support that by building strong technical understanding from the atoms up.
+My work is driven by the synthesis of high tech concepts into human centred design. I hope that my experience in academic and personal projects demonstrates an ability to be an autonomous operator, and producer of creative and actionable ideas.
+
+
 
 # 📐 Experience & Projects
 
 ## 🎓 University
 
-### Masters project - graphically editable music transformations
-* Demonstrated using nonstationary gabor transforms to make music editable in an image editor.
-* Working with Python ML and and acceleration libraries.
+### Masters project - music editing with spectrograms
+* Demonstrated using advanced signal processing techniques to render an editable spectrogram of a song in an ordinary image format.
+* Working with PyTorch for tensor operations.
 
 ### High performance metaheuristic algorithms using TensorFlow 
-* Used TensorFlow to implement a high-performance particle swarm optimiser and puzzle solving genetic algorithm.
+* Used TensorFlow to implement GPU accelerated particle swarm optimiser and genetic algorithms.
 
 ### [Edinburgh cycle share scheme](https://redd.it/mrbvvt) - data analysis and presentation 
-* Analysed data from Edinburgh's cycle rental scheme during COVID-19 using Python data science packages*
+* Analysed data from Edinburgh's cycle rental scheme during COVID-19 using Python data science packages
 
-### [Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for kids 
-* Built a modern, interactive web application using React to help users learn about binary numbers, encoding systems, and bitwise operations.
-* Implemented features including multiple rows for simultaneous values, configurable bit columns, and various encoding options (unsigned/signed binary, IEEE 754, ASCII).
-* Created an intuitive UI with visual beads that change color based on position, keyboard shortcuts, and sound feedback.
+### [Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for learners
+* Built a modern, interactive web application using React to help learners interact with binary numbers in a more meaningful way.
+* Implemented various encoding options and technical levels (unsigned/signed binary, IEEE 754, ASCII).
 * Designed with responsive layout and multiple interaction modes (keyboard/mouse) for accessibility.
 
 ### [Workout Mate](https://workout.tommo.page) - Gymnastics strength and conditioning app 
-* As part of a redesign project for the Hevy workout app, I developed a web app which now is used by the Edinburgh University Gymnastics club's strength and conditioning programme.
+* As part of a redesign project for the Hevy workout app, I developed a web app which now is used to provide the Edinburgh University Gymnastics club's strength and conditioning programme.
 * Used React, Astro and Github Actions to create a web app to help the club members perform \\ workouts.
 
 ### Tenuto; Robot piano tutor 
@@ -68,10 +82,10 @@ Leadership and Management - 3 years experience
 * Created a wearable harness with inertial measurement hardware, collected data over Bluetooth using Python API.
 * Analysis and visualisation to gain insights into physical preparation.
 
-### [Training clock](https://clock.tommo.page) for Edinburgh university gymnastics club 
+<!-- ### [Training clock](https://clock.tommo.page) for Edinburgh university gymnastics club 
 * Built using React and deployed using Firebase.
 * Used for my former role as social and fundraising coordinator for the club.
-* Synchronised to a central calendar and displays upcoming social/competitive events.
+* Synchronised to a central calendar and displays upcoming social/competitive events. -->
 
 ## 🏫 High school
 
@@ -118,12 +132,10 @@ Leadership and Management - 3 years experience
 
 ## 🤝 Volunteering & Non-technical Involvement
 
-### 🤸‍♂️ Edinburgh University Gymnastics Club
-
-- **🤝 Social and fundraising coordinator**
-    - Promoting events on social media and in person, made a significant impact on social attendance from 5 to 20+ people.
-    - Planning and organising social activities and fundraising initiatives, collaborating with other sports clubs.
-    - Working as a team with committee, coaches, and club members.
+### 🤸‍♂️ Edinburgh University Gymnastics Club - Social and fundraising coordinator
+- Promoting events on social media and in person, made a significant impact on social attendance from 5 to 20+ people.
+- Planning and organising social activities and fundraising initiatives, collaborating with other sports clubs.
+- Working as a team with committee, coaches, and club members.
 
 ### 📰 Turing Fest Media Assistant
 - Photographed and filmed the event for social media and website.
