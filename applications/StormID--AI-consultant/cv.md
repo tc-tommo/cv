@@ -6,15 +6,11 @@ author: Tommo Chung
 <div class="header" style="position: absolute; z-index: -1;">
 <h1>Thomas Chung</h1>
 <h2>2:1 (Hons)</h2><h2>Merit (Masters)</h2>
-<p>
-07483215270
-tommo@chung.scot    
-</p>
+<p>07483215270</p><p>tommo@chung.scot</p>
 <p>
 Software engineer - 6 years experience
 Master of Informatics - Edinburgh University (2019-2025)
 Master of Computer Science - Edinburgh University (2019-2025)
-Leadership and Management - 3 years experience
 Python - 6 years experience
 JavaScript - 6 years experience
 React - 3 years experience
@@ -32,17 +28,25 @@ CSS - 6 years experience
 <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
 </style>
 
-@import "style.less"
-@import "assets/header.svg"
+@import "../../style.less"
+@import "../../assets/header.svg"
 
 ---
 
 # Personal Statement
 
-I am a computer science graduate with a passion for building things, I always try to reimagine how we interact with data and our devices.
-My strongest talent is to produce creative, high quality ideas and designs. I struggle to feel this shining about my own abilities but I have been told I have been good at it. I also try to support that by building strong technical understanding from the atoms up.
+I am a computer science graduate with a passion for building things.
+My strongest talent is to produce inventive, high quality ideas and designs. I struggle to feel this shining about my own abilities but I have been told I have been good at it. I also try to support that by building strong technical understanding from the atoms up.
 My work is driven by the synthesis of high tech concepts into human centred design. I hope that my experience in academic and personal projects demonstrates an ability to be an autonomous operator, and producer of creative and actionable ideas.
 
+
+## Skills
+- **AI/ML:** TensorFlow, PyTorch, LLM fine-tuning (LLaMa, Qwen, Phi), NLP frameworks, model evaluation, Application development using LLMs
+- **Data Science:** Pandas, NumPy, data analysis, data visualisation, benchmark evaluation, public sector data
+- **Front-End:** JavaScript, Node.js, React, UI/UX design
+- **Programming:** Python, TypeScript, Haskell, C/C++
+- **Version Control:** Git, GitHub Actions
+- **Ethics in Application:** A core focus of my study has been ethics and impacts of technology on vulnerable members of society.
 
 
 # 📐 Experience & Projects
