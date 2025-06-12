@@ -36,8 +36,8 @@ CSS - 6 years experience
 # Personal Statement
 
 I am a computer science graduate with a passion for building things.
-My strongest talent is to produce inventive, high quality ideas and designs. I struggle to feel this shining about my own abilities but I have been told I have been good at it. I also try to support that by building strong technical understanding from the atoms up.
-My work is driven by the synthesis of high tech concepts into human centred design. I hope that my experience in academic and personal projects demonstrates an ability to be an autonomous operator, and producer of creative and actionable ideas.
+My strongest talent is to produce inventive, high quality ideas and designs. I don't often feel this shining about my own abilities but I have consistent feedback that I am good at this. I also try to support that by building strong technical understanding of computers, language models, and software from the atoms up.
+My work is driven by the synthesis of high tech concepts into applications for people. I hope that my experience in academic and personal projects gives some demonstration of my strength as an autonomous operator and creative person.
 
 
 ## Skills
@@ -46,14 +46,15 @@ My work is driven by the synthesis of high tech concepts into human centred desi
 - **Front-End:** JavaScript, Node.js, React, UI/UX design
 - **Programming:** Python, TypeScript, Haskell, C/C++
 - **Version Control:** Git, GitHub Actions
-- **Ethics in Application:** A core focus of my study has been ethics and impacts of technology on vulnerable members of society.
+- **Ethics in Application:** A core focus of my study has been identifying and mitigating technological harms on vulnerable members of society.
 
+--- 
 
-# 📐 Experience & Projects
+# 📐 Project Experience
 
 ## 🎓 University
 
-### Masters project - music editing with spectrograms
+### 2024 - Masters project - music editing with spectrograms
 * Demonstrated using advanced signal processing techniques to render an editable spectrogram of a song in an ordinary image format.
 * Working with PyTorch for tensor operations.
 
@@ -72,10 +73,9 @@ My work is driven by the synthesis of high tech concepts into human centred desi
 * As part of a redesign project for the Hevy workout app, I developed a web app which now is used to provide the Edinburgh University Gymnastics club's strength and conditioning programme.
 * Used React, Astro and Github Actions to create a web app to help the club members perform \\ workouts.
 
-### Tenuto; Robot piano tutor 
+### Tenuto - Robot piano tutor 
 * Developed hardware and control software for a robotic piano tutor concept, interfacing with Bluetooth LE MIDI and utilising wireless chips, microcontrollers, and high-power transistors to drive a solenoid array, with variable key velocity using PWM signalling.
 * Key player in a large team; product demo rated best among 23 teams by technology and business experts.
-* I was a key contributor of product design and development.
 
 ## 🎮 Hobby projects
 
@@ -102,7 +102,10 @@ My work is driven by the synthesis of high tech concepts into human centred desi
 # 🎓 Education
 
 ## Edinburgh University - Informatics (MInf) (2019-2025)
-- 80% average marks in quality & readability of code and documentation.
+- 2:1 (Honours Level)
+- Expected Merit (Masters Level)
+- 76% Project mark (Honours Level)
+- Consistent high marks for inventiveness, quality and documentation on programming projects.
 
 <!-- 
 | 👨‍💻 **Programming** | ☁️ **Systems** | 🧮 **Maths** | 🔣 **Theory** | 🎨 **Other** |
@@ -117,38 +120,47 @@ My work is driven by the synthesis of high tech concepts into human centred desi
 
 # 💼 Employment
 
-## 📝 Inkwell PR - Full stack developer (Dec 2023 - Aug 2024)
+### 📝 Inkwell PR - Full stack developer (Dec 2023 - Aug 2024)
 - Helping deliver an MVP for an AI writing assistant startup.
 - Implementing payment and subscription services into a webapp.
 
-## ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
+### ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
 - Developing performant driver code for low power sports wearables.
 - Writing hardware emulators for testing and validation of driver code.
 
-## 💪 Edinburgh University Gymnastics - Strength and conditioning coach
+### 💪 Edinburgh University Gymnastics - Strength and conditioning coach
 (May 2023 - Present)
 - Organising and running a training programme.
 
-## Other
-|☕ **Costa (2022 - 2023)** |🍦 **Artisan Gelato (2022)** |🍪 **Nairn's Oatcakes (2021)** |🏭 **Grant Westfield (2021)** | 🍴 **Wetherspoons (2018-2019)** |
-|-|-|-|-|-|
+## Other Employment
+<table>
+<tr>
+<td>☕ Costa (2022 - 2023)</td>
+<td>🍦 Artisan Gelato (2022)</td>
+<td>🍪 Nairn's Oatcakes (2021)</td>
+<td>🏭 Grant Westfield (2021)</td>
+<td>🍴 Wetherspoons (2018-2019)</td>
+</tr>
+<tr>
+<td>Barista and till operator</td>
+<td>Gelatier</td>
+<td>Factory operator</td>
+<td>Beam saw operator</td>
+<td>Porter and kitchen assistant</td>
+</tr>
 
 
-## 🤝 Volunteering & Non-technical Involvement
 
-### 🤸‍♂️ Edinburgh University Gymnastics Club - Social and fundraising coordinator
-- Promoting events on social media and in person, made a significant impact on social attendance from 5 to 20+ people.
-- Planning and organising social activities and fundraising initiatives, collaborating with other sports clubs.
-- Working as a team with committee, coaches, and club members.
+## 🤝 Voluntary and community work
 
-### 📰 Turing Fest Media Assistant
-- Photographed and filmed the event for social media and website.
-- Helped with the setup and running of the event reception.
-- Assisted speakers and attendees with any issues.
+### 🤸‍♂️ Edinburgh University Gymnastics Club 
+- Social and fundraising coordinator
+- Strength and conditioning coach
 
-### UK Shuffle Community 
-- A performing arts community for the Shuffle/Cutting shapes dance scene.
-- I do amateur production and videography to create social media content for dancers and to promote classes.
-- I participate in workshops and teaching for kids and adults.
-- Participate in performances, flash mobs, and promotions for music festivals.
+### 📰 Turing Fest 2023
+- Photographer and Media Assistant
+
+### 🧱 Brigend community volunteer
+- Cafe assistant
+- Woodwork and construction volunteer
 
