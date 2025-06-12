@@ -46,7 +46,7 @@ My work is driven by the synthesis of high tech concepts into applications for p
 - **Front-End:** JavaScript, Node.js, React, UI/UX design
 - **Programming:** Python, TypeScript, Haskell, C/C++
 - **Version Control:** Git, GitHub Actions
-- **Ethics in Application:** A core focus of my study has been identifying and mitigating technological harms on vulnerable members of society.
+- **Ethics in Application:** A core focus of my study has been identifying and proposing mitigations for technological harms on vulnerable members of society.
 
 --- 
 
@@ -54,9 +54,10 @@ My work is driven by the synthesis of high tech concepts into applications for p
 
 ## 🎓 University
 
-### 2024 - Masters project - music editing with spectrograms
+### Masters project - visual music editing with CQ spectrograms
 * Demonstrated using advanced signal processing techniques to render an editable spectrogram of a song in an ordinary image format.
 * Working with PyTorch for tensor operations.
+* 76% mark (Honours Level)
 
 ### High performance metaheuristic algorithms using TensorFlow 
 * Used TensorFlow to implement GPU accelerated particle swarm optimiser and genetic algorithms.
@@ -128,39 +129,26 @@ My work is driven by the synthesis of high tech concepts into applications for p
 - Developing performant driver code for low power sports wearables.
 - Writing hardware emulators for testing and validation of driver code.
 
-### 💪 Edinburgh University Gymnastics - Strength and conditioning coach
-(May 2023 - Present)
+### 💪 Gymnastics - Edinburgh University - Strength coach (May 2023 - Ongoing)
 - Organising and running a training programme.
+- Coaching and mentoring athletes.
 
-## Other Employment
-<table>
-<tr>
-<td>☕ Costa (2022 - 2023)</td>
-<td>🍦 Artisan Gelato (2022)</td>
-<td>🍪 Nairn's Oatcakes (2021)</td>
-<td>🏭 Grant Westfield (2021)</td>
-<td>🍴 Wetherspoons (2018-2019)</td>
-</tr>
-<tr>
-<td>Barista and till operator</td>
-<td>Gelatier</td>
-<td>Factory operator</td>
-<td>Beam saw operator</td>
-<td>Porter and kitchen assistant</td>
-</tr>
+|☕ 2022 - 2023|🍨 2022|🍪 2021|🏭 2021|🍴 2018-2019|
+|-|-|-|-|-|
+|**Costa Coffee** |**Artisan Gelato** |**Nairn's Oatcakes** |**Grant Westfield** |**Wetherspoons** |
+|*Barista and till operator* |*Gelatier* |*Factory operator* |*Beam saw operator* |*Porter and kitchen assistant* |
 
+---
 
-
-## 🤝 Voluntary and community work
+# 🤝 Community involvement
 
 ### 🤸‍♂️ Edinburgh University Gymnastics Club 
 - Social and fundraising coordinator
-- Strength and conditioning coach
+- Men's artistic gymnastics coach
 
 ### 📰 Turing Fest 2023
 - Photographer and Media Assistant
 
-### 🧱 Brigend community volunteer
+### 🧱 [Brigend](https://www.bridgendfarmhouse.org.uk/) community volunteer
 - Cafe assistant
 - Woodwork and construction volunteer
-
