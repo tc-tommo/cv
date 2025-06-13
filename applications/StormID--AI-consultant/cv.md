@@ -8,6 +8,7 @@ author: Tommo Chung
 <h2>2:1 (Hons)</h2><h2>Merit (Masters)</h2>
 <p>07483215270</p><p>tommo@chung.scot</p>
 <p>
+
 Software engineer - 6 years experience
 Master of Informatics - Edinburgh University (2019-2025)
 Master of Computer Science - Edinburgh University (2019-2025)
@@ -47,6 +48,10 @@ My work is driven by the synthesis of high tech concepts into applications for p
 - **Programming:** Python, TypeScript, Haskell, C/C++
 - **Version Control:** Git, GitHub Actions
 - **Ethics in Application:** A core focus of my study has been identifying and proposing mitigations for technological harms on vulnerable members of society.
+
+| UK Citizen | UK Driving License | Immediate availability |
+|---|---|---| 
+| | | |
 
 --- 
 
@@ -142,11 +147,11 @@ My work is driven by the synthesis of high tech concepts into applications for p
 
 # 🤝 Community involvement
 
-### 🤸‍♂️ Edinburgh University Gymnastics Club 
+### 🤸‍♂️ Gymnastics - Edinburgh University
 - Social and fundraising coordinator
 - Men's artistic gymnastics coach
 
-### 📰 Turing Fest 2023
+### 📰 [Turing Fest](https://turingfest.com/) Volunteer
 - Photographer and Media Assistant
 
 ### 🧱 [Brigend](https://www.bridgendfarmhouse.org.uk/) community volunteer
