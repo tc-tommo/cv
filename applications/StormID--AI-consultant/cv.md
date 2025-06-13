@@ -37,8 +37,8 @@ CSS - 6 years experience
 # Personal Statement
 
 I am a computer science graduate with a passion for building things.
-My strongest talent is to produce inventive, high quality ideas and designs. I don't often feel this shining about my own abilities but I have consistent feedback that I am good at this. I also try to support that by building strong technical understanding of computers, language models, and software from the atoms up.
-My work is driven by the synthesis of high tech concepts into applications for people. I hope that my experience in academic and personal projects gives some demonstration of my strength as an autonomous operator and creative person.
+My strongest talent is to produce inventive, high quality ideas and designs. I don't often feel this shining about my own abilities but I have consistent feedback that I am good at this. I also try to support that by building strong technical understanding of computers, language models, and algorithms from the atoms up.
+My work is driven by the synthesis of high tech concepts into human centred applications. I hope that my experience in academic and personal projects gives some demonstration of my strength as an autonomous operator and creative person.
 
 
 ## Skills
@@ -62,7 +62,6 @@ My work is driven by the synthesis of high tech concepts into applications for p
 ### Masters project - visual music editing with CQ spectrograms
 * Demonstrated using advanced signal processing techniques to render an editable spectrogram of a song in an ordinary image format.
 * Working with PyTorch for tensor operations.
-* 76% mark (Honours Level)
 
 ### High performance metaheuristic algorithms using TensorFlow 
 * Used TensorFlow to implement GPU accelerated particle swarm optimiser and genetic algorithms.
@@ -109,8 +108,8 @@ My work is driven by the synthesis of high tech concepts into applications for p
 
 ## Edinburgh University - Informatics (MInf) (2019-2025)
 - 2:1 (Honours Level)
+- [76% Project mark (Honours Level)](#masters-project---visual-music-editing-with-cq-spectrograms)
 - Expected Merit (Masters Level)
-- 76% Project mark (Honours Level)
 - Consistent high marks for inventiveness, quality and documentation on programming projects.
 
 <!-- 
@@ -126,15 +125,18 @@ My work is driven by the synthesis of high tech concepts into applications for p
 
 # 💼 Employment
 
-### 📝 Inkwell PR - Full stack developer (Dec 2023 - Aug 2024)
-- Helping deliver an MVP for an AI writing assistant startup.
-- Implementing payment and subscription services into a webapp.
+### 📝 Inkwell PR - Full stack developer (Jan 2024 - Aug 2024)
+*Startup using AI to write press releases*
+- Combining the GPT-3 model with human guidance to create more effective press releases.
+- Implementing payment and subscription models.
 
 ### ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
+*Wearable technology for team sports*
 - Developing performant driver code for low power sports wearables.
 - Writing hardware emulators for testing and validation of driver code.
 
-### 💪 Gymnastics - Edinburgh University - Strength coach (May 2023 - Ongoing)
+### 💪 Gymnastics - Strength coach (May 2023 - Ongoing)
+*University sports club*
 - Organising and running a training programme.
 - Coaching and mentoring athletes.
 
