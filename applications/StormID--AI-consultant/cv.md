@@ -144,7 +144,7 @@ Computer science graduate with a passion for building things.
 | **☕ Costa Coffee** | **🍨 Artisan Gelato** | **🍪 Nairn's Oatcakes** | **🏭 Grant Westfield** |**🍴 Wetherspoons** |
 |-|-|-|-|-|
 | 2022 - 2023|2022|2021|2021|2018-2019|
-| *Barista and till operator* | *Gelatier* | *Factory operator* | *Beam saw operator* | *Porter and kitchen assistant* |
+| *Barista and till operator* | *Gelatier* | *Labourer* | *Beam saw operator* | *Porter and kitchen assistant* |
 
 ---
 
@@ -155,7 +155,8 @@ Computer science graduate with a passion for building things.
 - Men's artistic gymnastics coach
 - Acrobatics display team 2022, 2023
 
-### 📰 [Turing Fest](https://turingfest.com/) Volunteer (2024)
+### 📰 [Turing Fest](https://turingfest.com/) (2024)
+*Edinburgh's annual festival of computer science*
 - Photographer and Media Assistant
 
 ### 💝 Hearts Innovation Centre - Arcade Academy Mentor (Nov 2024)
@@ -173,6 +174,7 @@ Computer science graduate with a passion for building things.
 * Instructing skills such as outdoor skills, cooking and first aid.
 
 ### 🧱 [Brigend](https://www.bridgendfarmhouse.org.uk/) community volunteer
+*Community initiative for the Craigmillar area*
 - Cafe assistant
 - Woodwork and construction volunteer
 
