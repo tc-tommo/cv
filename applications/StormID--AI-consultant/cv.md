@@ -32,7 +32,7 @@ CSS - 6 years experience
 @import "../../assets/header.svg"
 
 
-Computer science graduate with a passion for building things.
+Computer science graduate with a passion for solving important problems.
 
 ---
 
