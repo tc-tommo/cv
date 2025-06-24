@@ -1,17 +1,19 @@
 ---
 title: CV
 author: Tommo Chung
+export_on_save: 
+    prince: true
+    html: true
 ---
 
-<div class="header" style="position: absolute; z-index: -1;">
+<div class="header">
 <h1>Thomas Chung</h1>
 <h2>2:1 (Hons)</h2><h2>Merit (Masters)</h2>
 <p>07483215270</p><p>tommo@chung.scot</p>
 <p>
-
-Software engineer - 6 years experience
 Master of Informatics - Edinburgh University (2019-2025)
 Master of Computer Science - Edinburgh University (2019-2025)
+Software engineering - 6 years experience
 Python - 6 years experience
 JavaScript - 6 years experience
 React - 3 years experience
@@ -22,40 +24,27 @@ CSS - 6 years experience
 </p>
 </div>
 
-<style>
-<link rel="stylesheet" href="style.less">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-</style>
 
-@import "../../style.less"
-@import "../../assets/header.svg"
+@import "../../preamble.md"
+
+Computer science graduate with a passion for building things.
 
 ---
 
-# Personal Statement
-
-I am a computer science graduate with a passion for building things.
-My strongest talent is to produce inventive, high quality ideas and designs. I don't often feel this shining about my own abilities but I have consistent feedback that I am good at this. I also try to support that by building strong technical understanding of computers, language models, and algorithms from the atoms up.
-My work is driven by the synthesis of high tech concepts into human centred applications. I hope that my experience in academic and personal projects gives some demonstration of my strength as an autonomous operator and creative person.
 
 
-## Skills
+# Skills
 - **AI/ML:** TensorFlow, PyTorch, LLM fine-tuning (LLaMa, Qwen, Phi), NLP frameworks, model evaluation, Application development using LLMs
 - **Data Science:** Pandas, NumPy, data analysis, data visualisation, benchmark evaluation, public sector data
 - **Front-End:** JavaScript, Node.js, React, UI/UX design
 - **Programming:** Python, TypeScript, Haskell, C/C++
 - **Version Control:** Git, GitHub Actions
-- **Ethics in Application:** A core focus of my study has been identifying and proposing mitigations for technological harms on vulnerable members of society.
+- **Ethics and Citizenship:** child safeguarding, economic equality, transport and urban design, conservation and rewilding
 
-| UK Citizen | UK Driving License | Immediate availability |
-|---|---|---| 
-| | | |
-
---- 
-
-# 📐 Project Experience
+# 📐 Experience
 
 ## 🎓 University
 
@@ -69,7 +58,7 @@ My work is driven by the synthesis of high tech concepts into human centred appl
 ### [Edinburgh cycle share scheme](https://redd.it/mrbvvt) - data analysis and presentation 
 * Analysed data from Edinburgh's cycle rental scheme during COVID-19 using Python data science packages
 
-### [Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for learners
+### [Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool
 * Built a modern, interactive web application using React to help learners interact with binary numbers in a more meaningful way.
 * Implemented various encoding options and technical levels (unsigned/signed binary, IEEE 754, ASCII).
 * Designed with responsive layout and multiple interaction modes (keyboard/mouse) for accessibility.
@@ -79,10 +68,11 @@ My work is driven by the synthesis of high tech concepts into human centred appl
 * Used React, Astro and Github Actions to create a web app to help the club members perform \\ workouts.
 
 ### Tenuto - Robot piano tutor 
-* Developed hardware and control software for a robotic piano tutor concept, interfacing with Bluetooth LE MIDI and utilising wireless chips, microcontrollers, and high-power transistors to drive a solenoid array, with variable key velocity using PWM signalling.
-* Key player in a large team; product demo rated best among 23 teams by technology and business experts.
+* Developed hardware and control software for a robotic piano tutor concept.
+* Key player in a team of 10 students.
+* Product demo rated best among 23 teams by technology and business experts.
 
-## 🎮 Hobby projects
+## 🎮 Personal projects
 
 ### SendEvent app - NLP assisted events and invitations 
 * Uses a natural language processing framework to turn plain English descriptions of events into shareable formats.
@@ -102,14 +92,16 @@ My work is driven by the synthesis of high tech concepts into human centred appl
 * Highest Baccalaureate grade for the Angus district (2019).
 * Learned embedded programming, electronics, signal processing and telecommunications; developed a relay chat proof of concept in an independent research project.
 
+
+
 ---
 
 # 🎓 Education
 
-## Edinburgh University - Informatics (MInf) (2019-2025)
+## Edinburgh University - MInf (Hons) Informatics (2019-2025)
 - 2:1 (Honours Level)
 - [76% Project mark (Honours Level)](#masters-project---visual-music-editing-with-cq-spectrograms)
-- Expected Merit (Masters Level)
+- Merit (Masters Level)
 - Consistent high marks for inventiveness, quality and documentation on programming projects.
 
 <!-- 
@@ -125,37 +117,72 @@ My work is driven by the synthesis of high tech concepts into human centred appl
 
 # 💼 Employment
 
-### 📝 Inkwell PR - Full stack developer (Jan 2024 - Aug 2024)
+### 📝 Inkwell PR - Firebase developer (Jan 2024 - Aug 2024)
 *Startup using AI to write press releases*
 - Combining the GPT-3 model with human guidance to create more effective press releases.
 - Implementing payment and subscription models.
 
 ### ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
 *Wearable technology for team sports*
-- Developing performant driver code for low power sports wearables.
-- Writing hardware emulators for testing and validation of driver code.
+- Developed virtual driver testing framework for sports wearables using C/C++ on ARM Cortex-M microcontrollers.
+- Setup of driver code debugging on QEMU and the Zephyr device emulator framework.
+- Hardware emulation for deployment on Nordic SoC.
+
 
 ### 💪 Gymnastics - Strength coach (May 2023 - Ongoing)
 *University sports club*
 - Organising and running a training programme.
 - Coaching and mentoring athletes.
 
-|☕ 2022 - 2023|🍨 2022|🍪 2021|🏭 2021|🍴 2018-2019|
+### 🎭 Edinburgh Fringe - Flyerer (Aug 2024)
+*Edinburgh Performing Arts Festival*
+- Promoting fringe shows in the city centre.
+- Making ticket sales and creating positive interactions with the public.
+
+
+| **☕ Costa Coffee** | **🍨 Artisan Gelato** | **🍪 Nairn's Oatcakes** | **🏭 Grant Westfield** |**🍴 Wetherspoons** |
 |-|-|-|-|-|
-|**Costa Coffee** |**Artisan Gelato** |**Nairn's Oatcakes** |**Grant Westfield** |**Wetherspoons** |
-|*Barista and till operator* |*Gelatier* |*Factory operator* |*Beam saw operator* |*Porter and kitchen assistant* |
+| 2022 - 2023|2022|2021|2021|2018-2019|
+| *Barista and till operator* | *Gelatier* | *Labourer* | *Beam saw operator* | *Porter and kitchen assistant* |
 
 ---
 
 # 🤝 Community involvement
 
-### 🤸‍♂️ Gymnastics - Edinburgh University
+### 🤸‍♂️ Gymnastics @ Edinburgh University
 - Social and fundraising coordinator
 - Men's artistic gymnastics coach
+- Acrobatics display team 2022, 2023
 
-### 📰 [Turing Fest](https://turingfest.com/) Volunteer
+### 📰 [Turing Fest](https://turingfest.com/) (2024)
+*Edinburgh's annual festival of computer science*
 - Photographer and Media Assistant
 
-### 🧱 [Brigend](https://www.bridgendfarmhouse.org.uk/) community volunteer
+### 💝 Hearts Innovation Centre - Arcade Academy Mentor (Nov 2024)
+*Free coding club for children aged 6-10*
+- Mentoring children in game creation and programming.
+
+### 🤖 First Lego League - Mentor (2019-2020)
+*Robotics competition team*
+* Organising Arbroath High School's First Lego League team.
+* Mentoring younger pupils about robotics and programming.
+
+### 🎓 Scouts - Young Leader (2015-2019)
+*Scout group*
+* Organising and running weekly activities.
+* Instructing skills such as outdoor skills, cooking and first aid.
+
+<!-- ### 🧱 [Brigend](https://www.bridgendfarmhouse.org.uk/) community volunteer
+*Community initiative for the Craigmillar area*
 - Cafe assistant
-- Woodwork and construction volunteer
+- Woodwork and construction volunteer -->
+
+---
+
+<span style="display: flex; justify-content: space-between; margin: 0 2rem 0 2rem;">
+    <span>UK Citizen</span>
+    <span>UK Driving License</span>
+    <span>Immediate start</span>
+</span>
+
+--- 

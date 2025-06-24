@@ -3,7 +3,7 @@ title: Cover Letter
 author: Tommo Chung
 ---
 
-<div class="header" style="position: absolute; z-index: -1;">
+<div class="header" style="">
 <h1>Thomas Chung</h1>
 <h2>2:1 (Hons)</h2><h2>Merit (Masters)</h2>
 <p>07483215270</p><p>tommo@chung.scot</p>
@@ -12,7 +12,6 @@ author: Tommo Chung
 
 @import "../../preamble.md"
 
----
 
 Dear Storm ID hiring team,
 
