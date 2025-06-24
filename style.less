@@ -12,19 +12,13 @@
     src: local('Nexa Light');
 }
 
+
+
 .markdown-preview.markdown-preview {
-    &.prince {
-        @page {
-            size: A4;
-            margin: 1.27cm;
-        }
 
-
-    }
-    /* Convert emojis to monochrome style */
-    
     font-family: 'Lato', sans-serif;
     font-weight: 400;
+    font-size: 13pt;
 
     h1 { font-size: 2em; }
     h2 { font-size: 1.5em; }
@@ -35,7 +29,8 @@
 
 
     h3 , h4 , h5 , h6 {
-        font-family: 'Nexa Light', sans-serif;
+        font-family: 'Nexa', 'Lato', sans-serif;
+        font-weight: 400;
     }
 
     h1, h2 {
@@ -50,13 +45,6 @@
     table td, table th {
         border: none;
         // filter: sepia(1) hue-rotate(180deg);
-    }
-
-    .header {
-        position: absolute;
-        z-index: -1;
-        color: #fff0;
-        user-select: none;
     }
 
     li {
@@ -79,5 +67,37 @@
     table td {
         text-align: center;
     }
+
+    .header, .header * {
+        position: absolute;
+        z-index: -1;
+        color: #fff0 !important;
+        user-select: none;
+    }
+
+
+    // &.prince {
+    //     @page {
+    //         size: A4;
+    //         margin: 1.27cm;
+    //     }
+
+    //     :root {
+    //         --font-size: 12pt;
+    //     }
+
+    //     // Basic text styling
+    //     body {
+    //         font-family: 'Nexa', sans-serif;
+    //         color: #333;
+    //     }
+
+    //     h1, h2 { font-size: 14pt; }
+    //     h3, h4, h5, h6 { font-size: 12pt; }
+
+    //     p, ul, ol, dl, table, figure, li {
+    //         font-size: 12pt;
+    //     }
+    // }
 
 }

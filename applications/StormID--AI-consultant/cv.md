@@ -1,16 +1,19 @@
 ---
 title: CV
 author: Tommo Chung
+export_on_save: 
+    prince: true
+    html: true
 ---
 
-<div class="header" style="position: absolute; z-index: -1; color: white; user-select: none;">
+<div class="header">
 <h1>Thomas Chung</h1>
 <h2>2:1 (Hons)</h2><h2>Merit (Masters)</h2>
 <p>07483215270</p><p>tommo@chung.scot</p>
 <p>
-Software engineer - 6 years experience
 Master of Informatics - Edinburgh University (2019-2025)
 Master of Computer Science - Edinburgh University (2019-2025)
+Software engineering - 6 years experience
 Python - 6 years experience
 JavaScript - 6 years experience
 React - 3 years experience
@@ -21,18 +24,13 @@ CSS - 6 years experience
 </p>
 </div>
 
-<style>
-<link rel="stylesheet" href="style.less">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-</style>
 
-@import "../../style.less"
-@import "../../assets/header.svg"
+@import "../../preamble.md"
 
-
-Computer science graduate with a passion for solving important problems.
+Computer science graduate with a passion for building things.
 
 ---
 
@@ -44,7 +42,7 @@ Computer science graduate with a passion for solving important problems.
 - **Front-End:** JavaScript, Node.js, React, UI/UX design
 - **Programming:** Python, TypeScript, Haskell, C/C++
 - **Version Control:** Git, GitHub Actions
-- **Ethics and Citizenship:** child safeguarding, economic equality, transport and urban design, conservation and rewilding.
+- **Ethics and Citizenship:** child safeguarding, economic equality, transport and urban design, conservation and rewilding
 
 # 📐 Experience
 
@@ -60,7 +58,7 @@ Computer science graduate with a passion for solving important problems.
 ### [Edinburgh cycle share scheme](https://redd.it/mrbvvt) - data analysis and presentation 
 * Analysed data from Edinburgh's cycle rental scheme during COVID-19 using Python data science packages
 
-### [Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for learners
+### [Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool
 * Built a modern, interactive web application using React to help learners interact with binary numbers in a more meaningful way.
 * Implemented various encoding options and technical levels (unsigned/signed binary, IEEE 754, ASCII).
 * Designed with responsive layout and multiple interaction modes (keyboard/mouse) for accessibility.
@@ -70,8 +68,9 @@ Computer science graduate with a passion for solving important problems.
 * Used React, Astro and Github Actions to create a web app to help the club members perform \\ workouts.
 
 ### Tenuto - Robot piano tutor 
-* Developed hardware and control software for a robotic piano tutor concept, interfacing with Bluetooth LE MIDI and utilising wireless chips, microcontrollers, and high-power transistors to drive a solenoid array, with variable key velocity using PWM signalling.
-* Key player in a large team; product demo rated best among 23 teams by technology and business experts.
+* Developed hardware and control software for a robotic piano tutor concept.
+* Key player in a team of 10 students.
+* Product demo rated best among 23 teams by technology and business experts.
 
 ## 🎮 Personal projects
 
@@ -99,10 +98,10 @@ Computer science graduate with a passion for solving important problems.
 
 # 🎓 Education
 
-## Edinburgh University - Informatics (MInf) (2019-2025)
+## Edinburgh University - MInf (Hons) Informatics (2019-2025)
 - 2:1 (Honours Level)
 - [76% Project mark (Honours Level)](#masters-project---visual-music-editing-with-cq-spectrograms)
-- Expected Merit (Masters Level)
+- Merit (Masters Level)
 - Consistent high marks for inventiveness, quality and documentation on programming projects.
 
 <!-- 
@@ -173,10 +172,10 @@ Computer science graduate with a passion for solving important problems.
 * Organising and running weekly activities.
 * Instructing skills such as outdoor skills, cooking and first aid.
 
-### 🧱 [Brigend](https://www.bridgendfarmhouse.org.uk/) community volunteer
+<!-- ### 🧱 [Brigend](https://www.bridgendfarmhouse.org.uk/) community volunteer
 *Community initiative for the Craigmillar area*
 - Cafe assistant
-- Woodwork and construction volunteer
+- Woodwork and construction volunteer -->
 
 ---
 
