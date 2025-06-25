@@ -38,19 +38,11 @@
         // filter: sepia(1) hue-rotate(180deg);
     }
 
-    table th {
-        font-weight: normal;
-    }
-
-    table td, table th {
-        border: none;
-        // filter: sepia(1) hue-rotate(180deg);
-    }
-
     li {
         list-style-type: none;
         &::before {
             content: ">";
+            font-family: 'Nexa', 'Lato', sans-serif;
             display: inline-block;
             font-weight: bold;
             margin-right: 0.5rem;
@@ -58,14 +50,26 @@
         }
     }
 
-    table th {
-        border-bottom: 3px solid #0077be;
+
+    
+    table th, table td {
+        border: none;
     }
+    table th {
+        border-bottom: 3px solid #0077be;        
+        font-weight: normal;
+    }
+
     table tr:nth-child(even) {
         background-color: #f5f5f5;
     }
     table td {
         text-align: center;
+    }
+
+    table {
+        display: table;
+        margin: 0 auto;
     }
 
     .header, .header * {
