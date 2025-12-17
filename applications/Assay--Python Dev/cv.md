@@ -111,7 +111,7 @@ I'm looking for a role in which I can develop professionally and provide a balan
 - 2:1 (Masters Level)
 - [77% Masters Project mark](#masters-project---visual-music-editing-with-cq-spectrograms)
 - Consistent excellence in inventiveness, quality and documentation on programming coursework.
-> Functional Programming ∷ Object-oriented Programming ∷ Discrete Maths & Probability ∷ Programming Language Design ∷ Algorithms & Data Structures ∷ Operating Systems ∷ Linear Algebra ∷ Formal Logic ∷ Creative Coding for Music ∷ Datacentre computing ∷ Computer Security ∷ Calculus ∷ Cognitive Science ∷ Robotics & Computer Vision ∷ Microprocessor Architecture ∷ Numerical Optimisation ∷ Data Science & Statistics ∷ Teaching :: UX Design
+<!-- > Functional Programming ∷ Object-oriented Programming ∷ Discrete Maths & Probability ∷ Programming Language Design ∷ Algorithms & Data Structures ∷ Operating Systems ∷ Linear Algebra ∷ Formal Logic ∷ Creative Coding for Music ∷ Datacentre computing ∷ Computer Security ∷ Calculus ∷ Cognitive Science ∷ Robotics & Computer Vision ∷ Microprocessor Architecture ∷ Numerical Optimisation ∷ Data Science & Statistics ∷ Teaching :: UX Design -->
 
 <!-- 
 | 👨‍💻 **Programming** | ☁️ **Systems** | 🧮 **Maths** | 🔣 **Theory** | 🎨 **Other** |
@@ -158,12 +158,12 @@ I'm looking for a role in which I can develop professionally and provide a balan
 - Making ticket sales and creating positive interactions with the public.
 > Customer service ∷ Sales ∷ Public engagement -->
 
-## *️⃣ Other Jobs
+<!-- ## *️⃣ Other Jobs
 
 | **🎭 Edinburgh Fringe** | **☕ Costa Coffee** | **🍨 Artisan Gelato** | **🍪 Nairn's Oatcakes** | **🏭 Grant Westfield** |**🍴 Wetherspoons** |
 |-|-|-|-|-|-|
 | 2024 |2022-2023|2021|2021|2021|2019-2020|
-| *Flyerer* | *Barista and till operator* | *Gelatier* | *Labourer* | *CNC operator* | *Porter and kitchen assistant* |
+| *Flyerer* | *Barista and till operator* | *Gelatier* | *Labourer* | *CNC operator* | *Porter and kitchen assistant* | -->
 
 ---
 
@@ -204,10 +204,10 @@ I'm looking for a role in which I can develop professionally and provide a balan
 * Organising and running weekly activities.
 * Instructing skills such as outdoor skills, cooking and first aid. -->
 
-| **💝 Hearts Innovation Centre** | **💻 Turing Festival** | **🤖 First Lego League** | **🏕️ Scouts** |
+<!-- | **💝 Hearts Innovation Centre** | **💻 Turing Festival** | **🤖 First Lego League** | **🏕️ Scouts** |
 |-|-|-|-|
 | 2024 | 2024 | 2019-2020 | 2015-2019 |
-| *Code Club Mentor* | *Photographer* | *Mentor* | *Young Leader* |
+| *Code Club Mentor* | *Photographer* | *Mentor* | *Young Leader* | -->
 
 
 <!-- ### 🧱 [Brigend](https://www.bridgendfarmhouse.org.uk/) community volunteer
