@@ -7,7 +7,7 @@ author: Tommo Chung
 <h1>Thomas Chung</h1>
 <h2>2:1 (Hons)</h2><h2>Merit (Masters)</h2>
 <p>
-07483215270
+07483 215270
 tommo@chung.scot    
 </p>
 <p>
@@ -57,110 +57,101 @@ Signal processing - 7 years experience
 
 ---
 
-# 📐 Experience & Projects
+# 👤 Profile
 
-## 💼 Professional
+Software engineer with 6+ years' experience across ML, web, and signal processing. Strong foundation in full stack development, and user‑facing software.
 
-### 💼 Support Buddy - Twitter abuse moderation tool
-* Sole engineer responsible for the design and delivery of a browser extension for Twitter/X feed curation, addressing online abuse targeting women and girls.
-* Built a Chrome extension which uses a custom AI model to detect and apply content moderation interventions.
-* ✉️  [Dr. Nancie Gunson, Equally Safe Online, Heriot-Watt University](#references).
-> TypeScript ∷ Chrome Extension API ∷ On-device Models ∷ Machine Learning ∷ Content Moderation
+---
 
-### 💼 QuickWord - AI scheduling app
-* Part of a team of 3, working on the UX and frontend of an AI scheduling app.
-* Designed bespoke components for the user interface and unique calendar workflow.
-* Impact: app is now deployed and available as a beta service.
-* ✉️ [Rohak Singhal, Lead Developer, QuickWord](#references).
+# 📐 Experience
+
+## 💼 Support Buddy — Chrome Extension
+
+### Extension Developer
+
+* Built and shipped a Chrome extension for moderating X/Twitter abuse targeting women and girls.
+* Implemented on‑device ML to apply real‑time intervention.
+
+
+> TypeScript ∷ Chrome Extension API ∷ ML
+
+## 💼 [QuickWord — AI Scheduling App](https://quickword.app)
+
+### Frontend Engineer
+
+* Frontend engineer in a 4‑person team.
+* Designed core UI components and scheduling workflow UX.
+* Shipped beta product.
+
 > React ∷ Next.js ∷ Tailwind ∷ TypeScript
 
-## 🎓 University
+## 💼 Inkwell PR
 
-### 🧮 [Binary Abacus](https://tommo.page/abacus) - Interactive learning tool for school children
-* Built a modern, interactive web application using React to help learners interact with binary numbers in a more meaningful way.
-* Implemented various encoding options and technical levels (unsigned/signed binary, IEEE 754, ASCII).
-* Designed with responsive layout and multiple interaction modes (keyboard/mouse) for accessibility.
-* Impact: now used in classrooms across Scotland.
-* ✉️ [Kate Farrell, Director of Curriculum Development, University of Edinburgh](#references).
-> React ∷ TypeScript ∷ HTML ∷ CSS ∷ Accessible Design ∷ Responsive Design
+### Full‑Stack Developer
 
-## 🎹 Masters project: editing music using pitch-space spectrograms
-* Demonstrated using advanced signal processing techniques to transform music into spectrograms with western pitch scale and then back to audio.
-* Implementing multimedia data pipelines and workflows.
-* Impact: first documented open source process capable of spectral space editing like Adobe Audition or Steinberg SpectraLayers.
-* ✉️ [Dr. John Longley, Lecturer, University of Edinburgh](#references).
-> Python ∷ PyTorch ∷ NumPy ∷ Signal Processing ∷ CQ Spectrograms ∷ Fourier Analysis ∷ Image Processing ∷ Creative Software Design
+* Built and launched subscription MVP.
+* Integrated authentication and payments APIs.
 
-<!-- ### 📝 Inkwell PR - Full stack AI press release writer
-* Sole developer, bringing a full stack webapp React, Node.js, and Firebase to market.
-* Integrated with OpenAI and Stripe APIs.
-- Impact: took the app from a tech demo to a full subscription service MVP. 
-- Reference: Darcie Tanner, Darcie Digital Co.
-> React ∷ Node.js ∷ Firebase ∷ OpenAI API ∷ Stripe API -->
+> React ∷ Node.js ∷ Firebase ∷ Stripe
 
-<!-- ### ⚽ PlayerData - Virtual driver testing environment
-* Developed a virtual driver testing environment for sports wearable platform.
-* Low level peripheral emulation on Arm Cortex-M chips.
-- Impact: Improved development efficiency and reduction of in-hardware testing time.
-- Reference: Hayden Ball, CTO, PlayerData.
-> C ∷ C++ ∷ Zephyr ∷ QEMU ∷ Nordic SoC ∷ ARM Cortex-M ∷ JLink ∷ GDB ∷ Emulation ∷ Software Testing -->
+## ⚽ PlayerData
 
+### Firmware Engineering Intern
 
-<!-- ### 2nd year: [Edinburgh cycle share scheme](https://redd.it/mrbvvt) - data analysis and presentation 
-* Analysed data from Edinburgh's cycle rental scheme during COVID-19 using Python data science packages -->
+* Developed embedded test and emulation tools.
+* Reduced in-hardware testing time.
 
+> C ∷ ARM Cortex‑M ∷ Zephyr ∷ QEMU
 
-<!-- 
-## 🏫 High school
+---
 
-### Scottish Baccalaureate in STEM - wireless communication using visible light 
-* Highest Baccalaureate grade for the Angus district (2019).
-* Learned embedded programming, electronics, signal processing and telecommunications; developed a relay chat proof of concept in an independent research project. -->
+# 📐 University Projects
+
+## 🧮 [Binary Abacus](https://tommo.page/abacus)
+### Interactive learning tool for school children
+
+* Interactive tool for teaching binary arithmetic and encoding.
+* Used in classrooms across Scotland.
+
+> React ∷ TypeScript ∷ Accessible Design
+
+## 🎹 Masters Project 
+### Editing music with pitch‑space spectrograms
+
+* Audio reconstruction pipeline from spectrogram images, with octave scaling.
+* First spectral editing process demonstrated outwith proprietary domain (e.g. Adobe Audition).
+> Python ∷ PyTorch ∷ Signal Processing
+
+---
 
 # 🎓 Education
+## University of Edinburgh
+### Master of Informatics (2019–2025)
 
-### Edinburgh University - Masters of Informatics (2019-2025)
-- 78% Masters project mark
-- 2:1 Merit (Masters Level)
-- Excellence in inventiveness, quality and documentation on programming coursework.
+* Master's project: 78% Distinction
+* Merit (Master's), 2:1 (Hons)
 
-<!-- 
-## Arbroath High School (2013-2019) 
-- Proxime Accessit (2nd in class Scottish Highers) 2018.
-- Top grade Scottish Baccalaureate in STEM for Angus district (2019). -->
+---
 
 # 💼 Employment
 
-### 💼 Heriot-Watt University - Extension Developer (Jan 2026 - Present)
-- Cross-functional research group, with machine learning and social science collaboration to create technical solutions to online abuse.
+### 🎓 Heriot-Watt University - Extension Developer (Sep 2025 – Feb 2026)
+### 🤸 Edinburgh Leisure - Gymnastics Coach (Jun – Nov 2025)
+### 📝 Inkwell PR - Full Stack Developer (Dec 2023 – Aug 2024)
+### ⚽ PlayerData - Firmware Engineering Intern (Jun 2023 – Sep 2023)
+### 💪 Edinburgh University Gymnastics - Strength Coach (May 2023 – Present)
 
+---
 
-### 🤸 Edinburgh Leisure - Gymnastics coach (June - Nov 2024)
-- Working with children and young adults aged 4-18 to develop their gymnastics skills and confidence.
+# 💡 Skills
 
-### 📝 Inkwell PR - Full stack developer (Dec 2023 - Aug 2024)
+**Languages:** Python, TypeScript, C
+**ML:** PyTorch, TensorFlow, NLP, LLM fine‑tuning, model evaluation
+**Web:** React, Node.js, HTML, CSS
+**Other:** Signal processing, embedded systems, UI/UX, accessibility
 
-### ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
+---
 
-### 💪 Edinburgh University Gymnastics - Strength and conditioning coach
+# 📧 References
 
-|☕ Costa (2022-23) |🍦 Artisan Gelato (2022) |🍪 Nairn's Oatcakes (2021) |🏭 Grant Westfield (2021) | 🍴 Wetherspoons (2018-19) |
-|-|-|-|-|-|
-
-
-## 🤝 Volunteering & Non-technical Involvement
-
-### 🤸‍♂️ Edinburgh University Gymnastics Club - Social and fundraising coordinator (2021-22)
-- Raised £1023 for charity
-- Organised 14 beloved socials including 2 fundraising initiatives.
-- Helped recover social participation from 3-5 to 20+ people after the 2020 pandemic.
-
-## References
-
-
-|👤<br>Reference|🏢<br>Organisation|👥<br>Relation|📧<br>Contact|
-|-|-|-|-|
-|Dr. Nancie Gunson|Heriot-Watt University|Project Supervisor| nancie.gunson@hwu.ac.uk|
-|Rohak Singhal|QuickWord|Lead Developer|rohak.singhal@quickword.com|
-|Kate Farrell|University of Edinburgh| Course Coordinator|kate.farrell@ed.ac.uk|
-|Dr. John Longley|University of Edinburgh| Project Supervisor|j.r.longley@ed.ac.uk|
+Available on request.
