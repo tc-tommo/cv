@@ -61,9 +61,8 @@ Signal processing - 7 years experience
 
 ## 💼 Professional
 
-### 💼 Support Buddy - Twitter feed curation extension
-* Sole engineer responsible for the design and delivery of a browser extension for Twitter/X feed curation.
-* A funded research project to support women and girls affected by online abuse.
+### 💼 Support Buddy - Twitter abuse moderation tool
+* Sole engineer responsible for the design and delivery of a browser extension for Twitter/X feed curation, addressing online abuse targeting women and girls.
 * Built a Chrome extension which uses a custom AI model to detect and apply content moderation interventions.
 * ✉️  [Dr. Nancie Gunson, Equally Safe Online, Heriot-Watt University](#references).
 > TypeScript ∷ Chrome Extension API ∷ On-device Models ∷ Machine Learning ∷ Content Moderation
@@ -77,7 +76,7 @@ Signal processing - 7 years experience
 
 ## 🎓 University
 
-#### 🧮 5th year: [Binary Abacus](https://tommo.page/abacus) - Interactive learning tool for school children
+### 🧮 [Binary Abacus](https://tommo.page/abacus) - Interactive learning tool for school children
 * Built a modern, interactive web application using React to help learners interact with binary numbers in a more meaningful way.
 * Implemented various encoding options and technical levels (unsigned/signed binary, IEEE 754, ASCII).
 * Designed with responsive layout and multiple interaction modes (keyboard/mouse) for accessibility.
@@ -85,7 +84,7 @@ Signal processing - 7 years experience
 * ✉️ [Kate Farrell, Director of Curriculum Development, University of Edinburgh](#references).
 > React ∷ TypeScript ∷ HTML ∷ CSS ∷ Accessible Design ∷ Responsive Design
 
-### 🎹 Masters project: editing music using pitch-space spectrograms
+## 🎹 Masters project: editing music using pitch-space spectrograms
 * Demonstrated using advanced signal processing techniques to transform music into spectrograms with western pitch scale and then back to audio.
 * Implementing multimedia data pipelines and workflows.
 * Impact: first documented open source process capable of spectral space editing like Adobe Audition or Steinberg SpectraLayers.
@@ -133,7 +132,7 @@ Signal processing - 7 years experience
 # 💼 Employment
 
 ### 💼 Heriot-Watt University - Extension Developer (Jan 2026 - Present)
-- Cross-functional research group, with machine learning and social science collaboration to mitigate online abuse.
+- Cross-functional research group, with machine learning and social science collaboration to create technical solutions to online abuse.
 
 
 ### 🤸 Edinburgh Leisure - Gymnastics coach (June - Nov 2024)
@@ -159,7 +158,7 @@ Signal processing - 7 years experience
 ## References
 
 
-|👤 Reference|🏢 Organisation|👥 Relation|📧 Contact|
+|👤<br>Reference|🏢<br>Organisation|👥<br>Relation|📧<br>Contact|
 |-|-|-|-|
 |Dr. Nancie Gunson|Heriot-Watt University|Project Supervisor| nancie.gunson@hwu.ac.uk|
 |Rohak Singhal|QuickWord|Lead Developer|rohak.singhal@quickword.com|
