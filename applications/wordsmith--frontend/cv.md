@@ -21,7 +21,7 @@ AI/ML - 3 years experience
 TensorFlow - 3 years experience
 PyTorch - 3 years experience
 LLM fine-tuning - 3 years experience
-NLP frameworks - 3 years experience
+NLP - 3 years experience
 Model evaluation - 3 years experience
 Application development using LLMs - 3 years experience
 UI/UX design - 3 years experience
@@ -38,8 +38,6 @@ Git - 7 years experience
 GitHub - 7 years experience
 GitHub Actions - 3 years experience
 GitHub Pages - 3 years experience
-GitHub Actions - 3 years experience
-GitHub Actions - 3 years experience
 Embedded programming - 7 years experience
 Signal processing - 7 years experience
 </p>
@@ -53,85 +51,109 @@ Signal processing - 7 years experience
 </style>
 
 @import "../../style.less"
-@import "../../assets/header.png"
+<!-- @import "../../assets/header-li.png" -->
 
----
 
-# 👤 Profile
-
-Software engineer with 6+ years' experience across ML, web, and signal processing. Strong foundation in full stack development, systems engineering, and user‑facing software.
+Software engineer with 3 years experience across ML, web, and UI/UX, including freelance and internship work for startups completed concurrently with a Masters degree.
 
 ---
 
 # 📐 Experience
 
-## 🌐 Support Buddy
+<section class="columns">
 
-### Extension Developer
+## 🤝 Support Buddy
+
+### Extension Developer (Current)
 
 * Built and shipped a Chrome extension for moderating X/Twitter abuse targeting women and girls.
-* Implemented on‑device ML to apply real‑time intervention.
-
-
+* Implemented on‑device models for real‑time intervention.
 > TypeScript ∷ Chrome Extension API ∷ ML
 
 ## 📆 [QuickWord](https://quickword.app)
 
 ### Frontend Engineer
 
-* Frontend engineer in a 4‑person team.
-* Designed core UI components and scheduling workflow UX.
-* Shipped beta product.
-
+* Designed core UI for a unique scheduling workflow based on a custom NLP model.
+* Reworked the UI from a basic demo to shipped beta in 2 months.
 > React ∷ Next.js ∷ Tailwind ∷ TypeScript
 
 ## 📝 Inkwell PR
 
 ### Full‑Stack Developer
 
-* Built and launched subscription MVP.
-* Integrated authentication and payments APIs.
-
+* Polished and deployed the MVP.
+* Integrated authentication and payments APIs
+* Responsible for the full stack and LLM prompt chaining.
 > React ∷ Node.js ∷ Firebase ∷ Stripe
 
 ## ⚽ PlayerData
 
 ### Firmware Engineering Intern
 
-* Developed embedded test and system emulation tools.
+* Developed embedded system emulation test tools.
 * Assembled the product charging hubs.
-* Reduced in-hardware testing time.
-* Reduced unit assembly time by 95% through process improvements.
+* Reduced driver testing time and hardware wastage.
+* Sped up the charger assembly by 20-30x.
+> C ∷ ARM Cortex‑M ∷ Zephyr RTOS ∷ QEMU 
 
-> C ∷ ARM Cortex‑M ∷ Zephyr ∷ QEMU
+## ☁️ Applied Cloud Programming
+### Academic Course *([INFR11245](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11245.html))*
+* Programmed, containerized, and deployed HTTP REST microservices on cloud providers.
+* Built CI/CD pipelines for automated integration, testing, and deployment.
+> Docker ∷ Kubernetes ∷ CI/CD ∷ REST 
 
----
+<br><br><br><br><br><br>
+
+</section style="break-after: page; page-break-after: always;">
+
+
+
+
 
 # 📐 University Projects
 
-## 🧮 [Binary Abacus](https://tommo.page/abacus)
-### Interactive learning tool for school children
-
-* Interactive tool for teaching binary arithmetic and encoding.
-* Used in classrooms across Scotland.
-
-> React ∷ TypeScript ∷ Accessible Design
+<section class="columns">
 
 ## 🎹 Masters Project 
 ### Editing music with pitch‑space spectrograms
 
 * Audio reconstruction pipeline from spectrogram, with octave scaling.
 * First spectral editing process demonstrated outwith proprietary software (e.g. Adobe Audition).
+* Experience building mathemetically complex PyTorch pipelines.
 > Python ∷ PyTorch ∷ Signal Processing
+
+## ➕ [Binary Abacus](https://tommo.page/abacus)
+### Interactive learning tool for school children
+
+* Interactive tool for teaching binary arithmetic and encoding.
+* Used in classrooms across Scotland.
+> React ∷ TypeScript ∷ Accessible Design ∷ Github Actions
+
+<br><br>
+
+</section>
 
 ---
 
 # 🎓 Education
+
+<section class="columns">
+
 ## University of Edinburgh
 ### Master of Informatics (2019–2025)
 
 * Master's project: 78% Distinction
-* Overall Merit (Master's), 2:1 (Hons)
+* Overall: Merit (Master's), 2:1 (Hons)
+
+## Arbroath High School
+### Proxime Accessit 2018
+
+- Scottish Baccalaureate in STEM (Angus Dux)
+- Highers AAAAA
+
+
+</section>
 
 ---
 
@@ -139,11 +161,11 @@ Software engineer with 6+ years' experience across ML, web, and signal processin
 
 |Company|Role|Start|Duration|
 |-------|-----|-------|-------|
-|Heriot-Watt University|Extension Developer|Sep 2025 |6 months|
+|Heriot-Watt University|Extension Developer|Sep 2025 |Ongoing|
 |Edinburgh Leisure|Gymnastics Coach|Jun 2025 |6 months|
-|Inkwell PR|Full Stack Developer|Dec 2023 |9 months|2
+|Inkwell PR|Full Stack Developer|Dec 2023 |9 months|
 |PlayerData|Firmware Engineering Intern|Jun 2023 |3 months|
-|Edinburgh University Gymnastics|Strength Coach|May 2023 |ongoing|
+|Edinburgh University Gymnastics|Strength Coach|May 2023 |Ongoing|
 
 ---
 
@@ -151,11 +173,5 @@ Software engineer with 6+ years' experience across ML, web, and signal processin
 
 **Languages:** Python, TypeScript, C
 **ML:** PyTorch, TensorFlow, NLP, LLM fine‑tuning, model evaluation
-**Web:** React, Node.js, HTML, CSS
+**Web:** React, Node.js, HTML, CSS, Tailwind
 **Other:** Signal processing, embedded systems, UI/UX, accessible design
-
----
-
-# 📧 References
-
-Available on request.
