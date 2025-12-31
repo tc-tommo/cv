@@ -109,7 +109,7 @@ Software engineer with 3 years experience across ML, web, and UI/UX, including f
 
 
 
-
+---
 
 # 📐 University Projects
 
