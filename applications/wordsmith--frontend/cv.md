@@ -51,7 +51,7 @@ Signal processing - 7 years experience
 </style>
 
 @import "../../style.less"
-<!-- @import "../../assets/header-li.png" -->
+@import "./header.png"
 
 
 Software engineer with 3 years experience across ML, web, and UI/UX, including freelance and internship work for startups completed concurrently with a Masters degree.
@@ -91,10 +91,10 @@ Software engineer with 3 years experience across ML, web, and UI/UX, including f
 
 ### Firmware Engineering Intern
 
-* Developed embedded system emulation test tools.
-* Assembled the product charging hubs.
-* Reduced driver testing time and hardware wastage.
-* Sped up the charger assembly by 20-30x.
+* Developed simulation tooling - reducing in-hardware test time and wastage.
+* Assembled charging hubs - improved efficiency by 20–30×.
+* Prototyped a computer-vision-based batch programmer.
+* Colleagues later refined the idea to achieve 50–100× throughput in device setup.
 > C ∷ ARM Cortex‑M ∷ Zephyr RTOS ∷ QEMU 
 
 ## ☁️ Applied Cloud Programming

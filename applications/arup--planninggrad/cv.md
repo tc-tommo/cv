@@ -7,21 +7,39 @@ author: Tommo Chung
 <h1>Thomas Chung</h1>
 <h2>2:1 (Hons)</h2><h2>Merit (Masters)</h2>
 <p>
-07483215270
+07483 215270
 tommo@chung.scot    
 </p>
 <p>
 Software engineer - 6 years experience
 Master of Informatics - Edinburgh University (2019-2025)
 Master of Computer Science - Edinburgh University (2019-2025)
-Leadership and Management - 3 years experience
+Collaboration and Teamwork - 7 years experience
+Leadership and Management - 7 years experience
 Python - 6 years experience
+AI/ML - 3 years experience
+TensorFlow - 3 years experience
+PyTorch - 3 years experience
+LLM fine-tuning - 3 years experience
+NLP - 3 years experience
+Model evaluation - 3 years experience
+Application development using LLMs - 3 years experience
+UI/UX design - 3 years experience
+Responsive design - 3 years experience
+Accessible design - 3 years experience
 JavaScript - 6 years experience
 React - 3 years experience
 Node.js - 3 years experience
 C - 7 years experience
-HTML - 6 years experience
-CSS - 6 years experience
+HTML - 8 years experience
+CSS - 7 years experience
+TypeScript - 3 years experience
+Git - 7 years experience
+GitHub - 7 years experience
+GitHub Actions - 3 years experience
+GitHub Pages - 3 years experience
+Embedded programming - 7 years experience
+Signal processing - 7 years experience
 </p>
 </div>
 
@@ -33,119 +51,133 @@ CSS - 6 years experience
 </style>
 
 @import "../../style.less"
-@import "../../assets/header.svg"
+@import "./header.png"
+
+
+Computer science graduate with 3 years experience across machine learning, data analysis, and mathematical computation, including experience working with startups completed concurrently with a Masters degree. Capable of creative and cross-domain problem solving. Passionate about the built environment and transport infrastructure.
 
 ---
 
-# Personal Statement
-
-I am a computer science graduate with a passion for building things, I always try to reimagine how we interact with data and our devices.
-My strongest talent is to produce creative, high quality ideas and designs. I struggle to feel this shining about my own abilities but I have been told I have been good at it. I also try to support that by building strong technical understanding from the atoms up.
-My work is driven by the synthesis of high tech concepts into human centred design. I hope that my experience in academic and personal projects demonstrates an ability to be an autonomous operator, and producer of creative and actionable ideas.
 
 
+# 📐 Experience
 
-# 📐 Experience & Projects
+<section class="columns">
 
-## 🎓 University
+## 🤝 Support Buddy
+*Social media moderation*
 
-### Masters project - music editing with spectrograms
-* Demonstrated using advanced signal processing techniques to render an editable spectrogram of a song in an ordinary image format.
-* Working with PyTorch for tensor operations.
+### Extension Developer (Current)
 
-### High performance metaheuristic algorithms using TensorFlow 
-* Used TensorFlow to implement GPU accelerated particle swarm optimiser and genetic algorithms.
+* Built and shipped a Chrome extension for moderating X/Twitter abuse targeting women and girls.
+* Implemented on‑device models for real‑time intervention.
+> TypeScript ∷ Chrome Extension API ∷ ML
 
-### [Edinburgh cycle share scheme](https://redd.it/mrbvvt) - data analysis and presentation 
-* Analysed data from Edinburgh's cycle rental scheme during COVID-19 using Python data science packages
+## 📆 [QuickWord](https://quickword.app)
+*Scheduling app*
 
-### [Binary Abacus](https://tommo.page/abacus) - Interactive binary learning tool for learners
-* Built a modern, interactive web application using React to help learners interact with binary numbers in a more meaningful way.
-* Implemented various encoding options and technical levels (unsigned/signed binary, IEEE 754, ASCII).
-* Designed with responsive layout and multiple interaction modes (keyboard/mouse) for accessibility.
+### Frontend Engineer
 
-### [Workout Mate](https://workout.tommo.page) - Gymnastics strength and conditioning app 
-* As part of a redesign project for the Hevy workout app, I developed a web app which now is used to provide the Edinburgh University Gymnastics club's strength and conditioning programme.
-* Used React, Astro and Github Actions to create a web app to help the club members perform \\ workouts.
+* Designed core UI for a unique scheduling workflow based on a beskpoke AI model.
+* Reworked the UI from a basic demo to shipped beta in 2 months.
+> React ∷ Next.js ∷ Tailwind ∷ TypeScript
 
-### Tenuto; Robot piano tutor 
-* Developed hardware and control software for a robotic piano tutor concept, interfacing with Bluetooth LE MIDI and utilising wireless chips, microcontrollers, and high-power transistors to drive a solenoid array, with variable key velocity using PWM signalling.
-* Key player in a large team; product demo rated best among 23 teams by technology and business experts.
-* I was a key contributor of product design and development.
+## 📝 Inkwell PR
+*Press release drafting service*
 
-## 🎮 Hobby projects
+### Full‑Stack Developer
 
-### SendEvent app - NLP assisted events and invitations 
-* Uses a natural language processing framework to turn plain English descriptions of events into shareable formats.
+* Polished and deployed the MVP.
+* Integrated authentication and payments APIs
+* Responsible for the full stack and LLM prompt chaining.
+> React ∷ Node.js ∷ Firebase ∷ Stripe
 
-### Wireless measurement device for understanding impact forces on gymnasts 
-* Created a wearable harness with inertial measurement hardware, collected data over Bluetooth using Python API.
-* Analysis and visualisation to gain insights into physical preparation.
+<br>
 
-<!-- ### [Training clock](https://clock.tommo.page) for Edinburgh university gymnastics club 
-* Built using React and deployed using Firebase.
-* Used for my former role as social and fundraising coordinator for the club.
-* Synchronised to a central calendar and displays upcoming social/competitive events. -->
+## ⚽ PlayerData
+*Wearable technology*
+### Firmware Engineering Intern
 
-## 🏫 High school
+* Developed simulation tooling - reducing in-hardware test time and wastage.
+* Assembled charging hubs - improved process efficiency by 20–30×.
+* Prototyped a computer-vision based device programmer. <br>- Refined by colleagues, increasing installation throughput 50–100×.
+> C ∷ Software Simulation ∷ Embedded Systems ∷ Industrial Automation
 
-### Scottish Baccalaureate in STEM - wireless communication using visible light 
-* Highest Baccalaureate grade for the Angus district (2019).
-* Learned embedded programming, electronics, signal processing and telecommunications; developed a relay chat proof of concept in an independent research project.
+## ☁️ Foundations of Data Science
+*Academic Course ([INFR08030](http://www.drps.ed.ac.uk/25-26/dpt/cxinfr08030.htm))*
+* Analysed cycle network usage data during COVID-19 using Python data science packages.
+* Presented findings and visualisations including [a popular Reddit post](https://redd.it/mrbvvt).
+> Python ∷ Pandas ∷ Geographic Data
+
+<br><br><br><br><br><br>
+
+</section style="break-after: page; page-break-after: always;">
+
+
+
+---
+
+# 📐 University Projects
+
+<section class="columns">
+
+## 🎹 Masters Project 
+### Editing music with pitch‑space spectrograms
+
+* Audio reconstruction pipeline from spectrogram images, with octave scaling.
+* First spectral editing process demonstrated outwith proprietary software (e.g. Adobe Audition).
+* Experience building mathemetically complex PyTorch pipelines.
+> Python ∷ PyTorch ∷ Signal Processing
+
+## ➕ [Binary Abacus](https://tommo.page/abacus)
+### Interactive learning tool for school children
+
+* Interactive tool for teaching binary arithmetic and encoding.
+* Used in classrooms across Scotland.
+> React ∷ TypeScript ∷ Accessible Design ∷ Github Actions
+
+<br><br>
+
+</section>
 
 ---
 
 # 🎓 Education
 
-## Edinburgh University - Informatics (MInf) (2019-2025)
-- 80% average marks in quality & readability of code and documentation.
+<section class="columns">
 
-<!-- 
-| 👨‍💻 **Programming** | ☁️ **Systems** | 🧮 **Maths** | 🔣 **Theory** | 🎨 **Other** |
-|---|---|---|---|---|
-| Functional Programming in Haskell | Object-oriented Software Development | Discrete Maths & Probability | Programming Language Design | Mandarin Chinese |
-| Algorithms & Data Structures | Operating Systems | Linear Algebra | Formal Logic | Creative Coding for Music |
-| Internet-scale computing | Computer Security | Calculus | Cognitive Science | Robotics & Computer Vision |
-| Microprocessor Architecture | Metaheuristic & Genetic Algorithms | Data Science & Statistics | m | Computing Education | -->
+## University of Edinburgh
+### Master of Informatics (2019–2025)
 
-## Arbroath High School (2013-2019) 
-- Proxime Accessit 2018.
+* Master's project: 78% Distinction
+* Overall: Merit (Master's), 2:1 (Hons)
+
+## Arbroath High School
+### Proxime Accessit 2018
+
+- Scottish Baccalaureate in STEM (Angus Dux)
+- Highers AAAAA
+
+
+</section>
+
+---
 
 # 💼 Employment
 
-## 📝 Inkwell PR - Full stack developer (Dec 2023 - Aug 2024)
-- Helping deliver an MVP for an AI writing assistant startup.
-- Implementing payment and subscription services into a webapp.
+|Company|Role|Start|Duration|
+|-------|-----|-------|-------|
+|Heriot-Watt University|Extension Developer|Sep 2025 |Ongoing|
+|Edinburgh Leisure|Gymnastics Coach|Jun 2025 |6 months|
+|Inkwell PR|Full Stack Developer|Dec 2023 |9 months|
+|PlayerData|Firmware Engineering Intern|Jun 2023 |3 months|
+|Edinburgh University Gymnastics|Strength Coach|May 2023 |Ongoing|
 
-## ⚽ PlayerData - Firmware engineering intern (Jun - Sep 2023)
-- Developing performant driver code for low power sports wearables.
-- Writing hardware emulators for testing and validation of driver code.
+---
 
-## 💪 Edinburgh University Gymnastics - Strength and conditioning coach
-(May 2023 - Present)
-- Organising and running a training programme.
+# 💡 Skills
 
-## Other
-|☕ **Costa (2022 - 2023)** |🍦 **Artisan Gelato (2022)** |🍪 **Nairn's Oatcakes (2021)** |🏭 **Grant Westfield (2021)** | 🍴 **Wetherspoons (2018-2019)** |
-|-|-|-|-|-|
-
-
-## 🤝 Volunteering & Non-technical Involvement
-
-### 🤸‍♂️ Edinburgh University Gymnastics Club - Social and fundraising coordinator
-- Promoting events on social media and in person, made a significant impact on social attendance from 5 to 20+ people.
-- Planning and organising social activities and fundraising initiatives, collaborating with other sports clubs.
-- Working as a team with committee, coaches, and club members.
-- With a team of 4 I coordinated a team which collected over £1000 for charity in a single day.
-
-### 📰 Turing Fest Media Assistant
-- Photographed and filmed the event for social media and website.
-- Helped with the setup and running of the event reception.
-- Assisted speakers and attendees with any issues.
-
-### UK Shuffle Community 
-- A performing arts community for the Shuffle/Cutting shapes dance scene.
-- I do amateur production and videography to create social media content for dancers and to promote classes.
-- I participate in workshops and teaching for kids and adults.
-- Participate in performances, flash mobs, and promotions for music festivals.
-
+**Languages:** Python, TypeScript, C
+**ML:** PyTorch, TensorFlow, NLP, LLM fine‑tuning, model evaluation
+**Web:** React, Node.js, HTML, CSS, Tailwind
+**Other:** Signal processing, embedded systems, UI/UX, accessible design

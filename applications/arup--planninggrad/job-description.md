@@ -26,10 +26,10 @@ We're looking for graduates with curiosity, personal drive and acumen to develop
 
 We're Looking For The Following Qualifications, Attributes, And Skills
 
-     Bachelor's degree in subjects relating to Civil or other Engineering, Geography, Planning, Economics, Mathematics, Operational Research, Statistics, Data/Computer Science, with a prediction of 2:1 or higher OR; 
-     Data analytics or Transport Planning-based Master's degree or other relevant topic with a prediction of Pass or above is advantageous; 
-     Enthusiasm for a career in Analysis and Planning, underpinned through a knowledge and understanding of our sector and work 
-     A planned and organised approach to work and meeting deadlines 
+- Bachelor's degree in subjects relating to Civil or other Engineering, Geography, Planning, Economics, Mathematics, Operational Research, Statistics, Data/Computer Science, with a prediction of 2:1 or higher OR; 
+- Data analytics or Transport Planning-based Master's degree or other relevant topic with a  prediction of Pass or above is advantageous; 
+- Enthusiasm for a career in Analysis and Planning, underpinned through a knowledge and understanding of our sector and work 
+- A planned and organised approach to work and meeting deadlines 
 
 We're Looking For
 
