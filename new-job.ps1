@@ -37,3 +37,6 @@ Add-Content -Path $trackingPath -Value $entry
 
 # open job-description.md in VSCode
 Start-Process "cursor" (Join-Path $applicationPath "job-description.md")
+
+# generate QR code for the cv document
+qrencode -l M -o (Join-Path $applicationPath "qr.png") "https://tommo.page/cv/$folderName/cv"
