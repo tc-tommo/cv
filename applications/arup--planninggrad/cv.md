@@ -53,7 +53,7 @@ Signal processing - 7 years experience
 @import "../../style.less"
 @import "./header.png"
 
-Masters in Informatics graduate passionate about the built environment and transport infrastructure, and engaged with local planning matters. Academic and professional experience across machine learning, statistical analysis, technical writing, and mathematical computation. Capable of creative, cross-domain problem solving. 
+Masters in Informatics graduate passionate about the built environment and transport, and engaged with local planning matters. Academic and professional experience across machine learning, statistical analysis, technical writing, and mathematical computation. Capable of creative, cross-domain problem solving. 
 
 ---
 
@@ -75,10 +75,10 @@ Masters in Informatics graduate passionate about the built environment and trans
 ## 📆 [QuickWord](https://quickword.app)
 *Scheduling app*
 
-### Frontend Engineer
+### Interface Designer
 
 * Designed core UI for a unique workflow based on a custom AI model.
-* Reworked the UI from a basic demo to shipped beta in 2 months.
+* Reworked the interface from a basic demo to shipped beta in 2 months.
 > React ∷ Next.js ∷ Tailwind ∷ TypeScript
 
 <br><br>
@@ -116,7 +116,7 @@ Masters in Informatics graduate passionate about the built environment and trans
 *Academic Coursework ([INFR08030](http://www.drps.ed.ac.uk/25-26/dpt/cxinfr08030.htm))*
 * Used open source data from the [Edinburgh rental scheme](https://web.archive.org/web/20210928131424/https://edinburghcyclehire.com/open-data/historical)
 * Analysed travel patterns during COVID-19 with Python data packages.
-* Anticipated a shift of emphasis from commuting and toward leisure.
+* Anticipated remote work shifting the emphasis from commuting and toward leisure.
 * Presented a report and created a [(reddit post)](https://redd.it/mrbvvt) which generated some public interest.
 > Python ∷ Pandas ∷ GIS Data
 
