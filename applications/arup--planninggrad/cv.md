@@ -53,8 +53,7 @@ Signal processing - 7 years experience
 @import "../../style.less"
 @import "./header.png"
 
-
-Computer science graduate with 3 years experience across machine learning, data analysis, and mathematical computation, including experience working with startups completed concurrently with a Masters degree. Capable of creative and cross-domain problem solving. Passionate about the built environment and transport infrastructure.
+Masters in Informatics graduate passionate about the built environment and transport infrastructure, and engaged with local planning matters. Academic and professional experience across machine learning, statistical analysis, technical writing, and mathematical computation. Capable of creative, cross-domain problem solving. 
 
 ---
 
@@ -78,12 +77,14 @@ Computer science graduate with 3 years experience across machine learning, data 
 
 ### Frontend Engineer
 
-* Designed core UI for a unique scheduling workflow based on a beskpoke AI model.
+* Designed core UI for a unique workflow based on a custom AI model.
 * Reworked the UI from a basic demo to shipped beta in 2 months.
 > React ∷ Next.js ∷ Tailwind ∷ TypeScript
 
+<br><br>
+
 ## 📝 Inkwell PR
-*Press release drafting service*
+*AI press release drafting service*
 
 ### Full‑Stack Developer
 
@@ -92,24 +93,14 @@ Computer science graduate with 3 years experience across machine learning, data 
 * Responsible for the full stack and LLM prompt chaining.
 > React ∷ Node.js ∷ Firebase ∷ Stripe
 
-<br>
-
 ## ⚽ PlayerData
 *Wearable technology*
 ### Firmware Engineering Intern
 
 * Developed simulation tooling - reducing in-hardware test time and wastage.
 * Assembled charging hubs - improved process efficiency by 20–30×.
-* Prototyped a computer-vision based device programmer. <br>- Refined by colleagues, increasing installation throughput 50–100×.
-> C ∷ Software Simulation ∷ Embedded Systems ∷ Industrial Automation
-
-## ☁️ Foundations of Data Science
-*Academic Course ([INFR08030](http://www.drps.ed.ac.uk/25-26/dpt/cxinfr08030.htm))*
-* Analysed cycle network usage data during COVID-19 using Python data science packages.
-* Presented findings and visualisations including [a popular Reddit post](https://redd.it/mrbvvt).
-> Python ∷ Pandas ∷ Geographic Data
-
-<br><br><br><br><br><br>
+* Prototyped a computer-vision based device programmer. <br>- Refined by colleagues, the tool increased throughput 50–100×.
+> C ∷ Simulation ∷ Embedded Systems ∷ Industrial Automation
 
 </section style="break-after: page; page-break-after: always;">
 
@@ -121,13 +112,13 @@ Computer science graduate with 3 years experience across machine learning, data 
 
 <section class="columns">
 
-## 🎹 Masters Project 
-### Editing music with pitch‑space spectrograms
-
-* Audio reconstruction pipeline from spectrogram images, with octave scaling.
-* First spectral editing process demonstrated outwith proprietary software (e.g. Adobe Audition).
-* Experience building mathemetically complex PyTorch pipelines.
-> Python ∷ PyTorch ∷ Signal Processing
+## 🚲 Cycle trends during the pandemic
+*Academic Coursework ([INFR08030](http://www.drps.ed.ac.uk/25-26/dpt/cxinfr08030.htm))*
+* Used open source data from the [Edinburgh rental scheme](https://web.archive.org/web/20210928131424/https://edinburghcyclehire.com/open-data/historical)
+* Analysed travel patterns during COVID-19 with Python data packages.
+* Anticipated a shift of emphasis from commuting and toward leisure.
+* Presented a report and created a [(reddit post)](https://redd.it/mrbvvt) which generated some public interest.
+> Python ∷ Pandas ∷ GIS Data
 
 ## ➕ [Binary Abacus](https://tommo.page/abacus)
 ### Interactive learning tool for school children
@@ -135,6 +126,19 @@ Computer science graduate with 3 years experience across machine learning, data 
 * Interactive tool for teaching binary arithmetic and encoding.
 * Used in classrooms across Scotland.
 > React ∷ TypeScript ∷ Accessible Design ∷ Github Actions
+
+
+## 🎹 Masters Project 
+### Editing music with pitch‑space spectrograms
+
+* Audio reconstruction pipeline from spectrogram images, with octave scaling.
+* First spectral editing process demonstrated outwith proprietary software (e.g. Adobe Audition).
+* Experience building mathemetically complex PyTorch pipelines.
+> Python ∷ PyTorch ∷ Audio Technology ∷ Tensor Computation
+
+
+
+
 
 <br><br>
 
